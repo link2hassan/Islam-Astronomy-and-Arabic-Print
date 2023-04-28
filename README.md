@@ -195,3 +195,132 @@ In the next case, we will look at the significance of references to celestial bo
 <param ve-image 
        label="The Majestic Quran translated by Dr Musharraf Hussain Al Azhari, OBE " 
        url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/files/11355211/The.Majestic.Quran.translated.by.Dr.Musharraf.Hussain.pdf">
+
+
+## Quranic Verses relating to Science and Astronomy
+
+There are many verses in the Quran that talk about the wonders of the universe and encourage the reader to look up to the skies and contemplate their existence within this universe. These include verses about the orbits of the celestial bodies, the sun, the moon, the stars, the darkness of space, the creation of time and the creation of night and day. Early Islamic scientists and astronomers would have been influenced by these verses, as the Quran is considered a source of knowledge for mankind. There are many references, in the Quran, to scientific and mathematical concepts and how they interrelate to acknowledging the existence of God.<br><br> 
+Over the next few exhibits, we will look at the verses that relate to celestial bodies to understand how they would have shaped the practice of astronomy in the early Islamic period.
+
+## Surah Mulk: The Sovereignty
+
+The word Mulk  ٱلْمُلْك  from the name of the chapter means, ‘sovereignty’ or ‘dominion’ and refers to the sovereignty or ownership that God has over everything that exists within the universe. By reading the chapter, readers can learn about the power and control that God has over their lives and over everything in the universe. The attributes of God are described in the verses for the reader to become knowledgeable about their Creator. Early Islamic scientists and astronomers would have been striving to learn more about their Creator by discovering more about the skies above them.
+<br><br>
+Surah Mulk Verse 3 – Do you see any flaws?<br><br>
+الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَّا تَرَى فِي خَلْقِ الرَّحْمَنِ مِن تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَى مِن فُطُور<br><br>
+Allazee khalaqa sab'a samaawaatin tibaaqam maa taraa fee khalqir rahmaani min tafaawut farji'il basara hal taraa min futoor<br><br>
+[And] Who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks?
+
+<param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/235204344-56d3afba-a3fe-4267-9805-182395ff0a56.jpg">
+       
+<param ve-image 
+       label="Surah Mulk: The Sovereignty" 
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/files/11355583/Surah.Mulk.The.Sovereignty.pdf">
+       
+## Surah Mulk Verse 4 – Look up again
+
+ثُمَّ ارْجِعِ الْبَصَرَ كَرَّتَيْنِ يَنْقَلِبْ إِلَيْكَ الْبَصَرُ خَاسِئًا وَهُوَ حَسِير<br><br>
+Summar ji'il basara karrataini yanqalib ilaikal basaru khaasi'anw wa huwa haseer<br><br>
+Then return [your] vision twice again. Your vision will return to you humbled while it is fatigued. 
+
+## Surah Mulk Verses 3 and 4: Perfection of the Universe
+
+The two verses from Surah (chapter) Mulk, above, describe the perfection of the design of the universe by God and challenges the reader to notice any flaws in its creation. The words ‘heavens’ and ‘skies’ are used to refer to space and the celestial bodies contained within.<br><br>
+The verses explain that your eyes will become fatigued from trying to detect any flaws in the universe, as the universe has been designed with precise systems. These verses are meant to encourage the reader to investigate their surroundings, including the sky above them and ponder deeply over them. They would have inspired stargazing in conjunction with contemplation, for early Islamic astronomers.<br><br>
+Contemplating the verses of Quran is considered a form of worship as it necessitates remembering God. In Islam, it is believed that hearts find contentment in the remembrance of God. Being a monotheistic religion, having a relationship with God is the true essence of Islam.<br><br> 
+By noticing the perfection of the universe, Muslims believe this alludes to the perfection of the One who created the universe, as everything has been created in exact measure with no faults. Looking at and understanding the enormity of the universe is also humbling.
+
+
+## Surah Yasin: Heart of the Quran 
+
+Surah Yasin, which is considered the heart of the Quran, contains verses that describe how the universe works and the function of the celestial bodies. According to Islam, the heavens and earth and everything in the universe were created for man to worship God. Therefore, everything in the universe has a function to facilitate worshipping God.
+
+<param ve-image 
+       label="Surah Yasin: Heart of the Quran" 
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/files/11355607/Surah.Yasin.Heart.of.the.Quran.pdf">
+       
+## Surah Yasin Verse 37 – Darkness of space
+
+وَءَايَةٞ لَّهُمُ ٱلَّيۡلُ نَسۡلَخُ مِنۡهُ ٱلنَّهَارَ فَإِذَا هُم مُّظۡلِمُون<br><br> 
+Wa Aayatul lahumul lailu naslakhu minhun nahaara fa-izaa hum muzlimoon<br><br> 
+And a Sign for them is the Night. We remove from it [the light of] day so, they are [left] in darkness.<br><br> 
+Scholars of Quran have stated that, this verse talks about the fact that the default position of the universe is to be in darkness. The alternation of night and day has been created by God to serve mankind. The reader is encouraged to reflect on their life without the existence of daylight. For Muslims, it invokes a feeling of gratitude towards their Creator for sustaining them through various systems in the universe such as the existence of the sun. In another verse, the sun is described as a lamp giving light.
+
+
+## Phases of the moon
+
+Surah Yasin Verse 39 – Phases of the moon<br><br> 
+وَٱلۡقَمَرَ قَدَّرۡنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِيم<br><br> 
+Walqamara qaddarnaahu manaazila hattaa 'aada kal'ur joonil qadeem<br><br> 
+And the moon - We have determined for it phases, until it returns [appearing] like the old date stalk.
+<br><br> 
+This verse mentions the phases of the moon. The word kal'ur joonil qadeem كَٱلۡعُرۡجُون ٱلۡقَدِيم    means, ‘like the old date stalk’. The image of an old, withered date stalk resembles the shape of the new crescent moon. This is an important verse as Islam is based on a lunar calendar. The phases of the moon denotes time. Each month starts on the sighting of the new moon. Therefore, the start and end dates of Ramadan are determined by moon sightings. These verses would have inspired early mathematicians and astronomers to develop tools to calculate the moon sightings and to become precise in their calculations. Calculations are important in the Quran and Islam. Ramadan normally consists of 30 days and there are 30 parts of the Quran, which Muslims try to complete at least once during Ramadan.
+
+<param ve-image 
+       label="Image by Enrique from Pixabay" 
+       url="https://user-images.githubusercontent.com/110464039/235208065-d19ecd83-5a43-417c-89ae-202df6c284e7.jpg">
+
+
+## Surah Yasin Verse 40 – Orbits of Celestial Bodies.
+
+لَا ٱلشَّمۡسُ يَنۢبَغِي لَهَآ أَن تُدۡرِكَ ٱلۡقَمَرَ وَلَا ٱلَّيۡلُ سَابِقُ ٱلنَّهَارِۚ وَكُلّٞ فِي فَلَكٖ يَسۡبَحُون<br><br> 
+Lash shamsu yambaghee lahaaa an tudrikal qamara walal lailu saabiqun nahaar; wa kullun<br><br> 
+fee falaki yasbahoon<br><br> 
+It is not allowable for the sun to reach the moon, nor does the night overtake the day, but each, in an orbit, is swimming. 
+<br><br> 
+This verse mentions the existence of orbits in the universe and the function of the orbits of the sun and the moon to create time and day and night. They are in a perfect system never colliding. In the tafsir of Ibn Kathir, he explains that the word, ‘swimming’ is used to describe the movement of celestial bodies, i.e., it is as if they are floating in orbit.
+<br><br> 
+It was not known at the time, that the sun has its own gradual orbit around the galaxy, which takes 230 million years. This was only discovered relatively recently in the early 20th century.
+
+<param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/235209560-b2c598cb-683b-4eab-b2c7-599d6b7598f3.jpg">
+
+
+## Surah Rahman: Favours from you Lord
+
+Surah Rahman discusses the favours or blessings that God bestows on mankind, out of His mercy. Being merciful is one of His attributes. From His great favours, are the favours of the functions of the celestial bodies.
+<br><br> 
+Surah Rahman Verse 5 – Calculated Orbits <br><br> 
+ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَان<br><br> 
+Ashshamsu walqamaru bihusbaan<br><br> 
+The sun and the moon [move] by precise calculation.<br><br> 
+The sun and moon move in harmony as everything in the universe is made in exact proportions and working together according to precise calculations. Verses such as this one highlights the importance of using mathematics, calculations and the laws of physics when observing the universe.
+
+<param ve-image 
+       label="Image by Enrique from Pixabay" 
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/files/11355791/Surah.Rahman.Favours.from.you.Lord.pdf">
+
+
+## Surah Baqarah Verse 187 – Breaking of dawn
+	
+Wa kuloo washraboo hattaa yatabaiyana lakumul khaitul abyadu minal khaitil aswadi minal fajri summa atimmus Siyaama ilal layl;
+<br><br> 
+And eat and drink, until the white thread of dawn appear to you distinct from its black thread [of night]. Then complete your fast until the sunset.  
+<br><br> 
+This extract from verse 187 of Surah Baqarah talks about how to know when dawn is breaking. This knowledge is important to Muslims as the morning prayer time, Fajr, starts at dawn break. It is also when fasts begin in Ramadan, as Muslims fast from dawn to sunset.
+<br><br> 
+The words khaitul abyadu  ٱلْخَيْطُ ٱلْأَبْيَض   means, ‘the white thread’ and refers to the white line of light that can be seen across the horizon at the time when dawn breaks in the morning. This is a line that is distinct from the blackness of the night sky. These verses and the knowledge of the movements of the sun are beneficial in calculating the five daily prayer times. 
+
+<param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/235210308-405bbf97-15f0-4c1f-93c9-9a63e04ad488.jpg">
+       
+<param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/235210390-bb536a44-5507-4f6b-8dec-b8d1bf0be4b7.jpg">
+
+<param ve-image 
+       label="Surah Baqarah Dawn breaking" 
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/files/11355812/Surah.Baqarah.Dawn.breaking.pdf">
+
+
+## Surah Al-An'am verse 97 – Stars as a guide
+
+وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ ۗ قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَعْلَمُون<br><br> 
+Wa Huwal lazee ja'ala lakumun nujooma litahtadoo bihaa fee zulumaatil barri walbahr; qad fassalnal Aayaati liqawminy ya'lamoon<br><br> 
+And it is He who placed for you the stars that you may guided by them through the darknesses of the land and sea. We have detailed the signs for people who know.<br><br> 
+This verse explains that God created the stars for the benefit of mankind, by providing light and a source of navigation through knowledge of mapping the stars. As the Quran was revealed in Arabia, desert Arabs had a tradition of observing the night sky and using the stars for navigation. Looking up at the sky to the stars has always been a source of awe and wonderment for mankind. For Muslims, the stars are also a sign of the greatness, power, and beauty of God as the constellations are a beautiful part of His creation. 
+
+<param ve-image 
+       label=""File:Clear Desert Night Sky (Unsplash).jpg" by Jared Evans chromogenic is marked with CC0 1.0." 
+       url="https://user-images.githubusercontent.com/110464039/235210961-55e0c7d3-7c26-412b-bf36-6a4d9d144aba.jpg">
+
