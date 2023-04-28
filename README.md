@@ -3,9 +3,9 @@
 <param ve-config 
        title="Islam, Astronomy and Arabic Print"
        author="Middle Temple Library"
-       banner="https://user-images.githubusercontent.com/110464039/207357393-32092f90-5d8f-49fa-bc11-7e244357ee03.jpg" 
+       banner="https://user-images.githubusercontent.com/110464039/235188811-19501cb9-3843-47af-8215-5db5764d13ee.jpg" 
        layout="vertical">
-      
+   
 ## Islam, Astronomy, and Arabic Print: A collection showcase at Middle Temple Library
 
 This exhibition was born out of an idea to showcase some of Middle Temple Library’s lesser-known printed and manuscript codicies that embody the presence of the Arabic and Islamic worlds across Europe between the sixteenth and seventeenth centuries. It tells the story of the emergence of Arabic print culture that flourished in the printing houses of London and Oxford nearly a century after Gutenberg’s revolutionary press. It goes onto explore the interest in the Quran across major European cities during this epoch of wider fascination into Islamic scholarship. And ends by looking at the impact of Islamic astronomy on writers and thinking in England during a period of dramatic growth in scientific and religious understanding of the universe. 
@@ -127,3 +127,71 @@ Ulugh Beg was an astronomer, scientist, and ruler who established the famous obs
        label="1648 Canicularia published by John Greaves and Ulugh Beg’s Zij-i Sultani (star catalogue)" 
        url="https://user-images.githubusercontent.com/110464039/235187663-8474e04f-f12c-44a5-a4d9-f9710d67521c.jpg">
 
+
+## What is the Quran?
+
+Muslims believe that the Quran is the word of God revealed to Prophet Muhammad in the 7th century through Angel Gabriel, during Ramadan. It was revealed gradually, over twenty three years, to give people time to contemplate the verses and get to know who God really is through His words. The Arabic word for God is Allah. 
+In Islam, it is considered the last scripture to be revealed by God, and Muhammad is believed to be the last prophet sent by God, from a long line of prophets from Adam to Noah, Abraham, Moses and Jesus, amongst many others. It is believed that the Quran confirms the same monotheistic message from previous scriptures: to believe in one God and follow the guidance from the prophets.
+<br><br>
+As Muhammad was illiterate, Muslims consider the Quran to be a miracle of God. The Quran is considered a guidance to the whole of mankind and a book of wisdom and knowledge. Muhammad spent his lifetime teaching people about the explanation of verses in the Quran and how to develop a relationship with God. He has been described as ‘a walking Quran’ as he lived his life according to Quranic principles. Since the time of Muhammad, there has been a long tradition of Islamic scholarship. Early Islamic scholars studied every aspect of the Quran in depth, ranging from religious aspects such as Islamic law and societal conduct to the mathematical, scientific and astronomical concepts mentioned within the Quran. The next few exhibits are some European translations of the Quran written during the medieval and renaissance period to present day.
+
+
+## European Translations of the Quran
+
+During the medieval period, there was a growing interest in translating the Quran in Europe for various reasons. Islamic empires at the time were far-reaching across the globe and were having an impact on Europe, having reached Andalusia in Spain and Sicily. Under the patronage of archbishops, translators were initially commissioned to translate the Quran with the intention to convert Muslims to Christianity.
+<br><br>
+However, this attitude gradually changed over time due to a rise in Orientalist scholarship (the study of Asian and Middle Eastern regions) in Europe. Islamic and European scholars began to share their knowledge on various disciplines, ranging from science and mathematics to Quranic knowledge and Arabic language. As a result, European translations of the Quran improved in their accuracy. However, a truly accurate translation of the Quran is not possible without years of Islamic scholarship and deep understanding of Islam, otherwise translations are prone to errors, alterations and misunderstandings regarding context.
+<br><br>
+The next few exhibits are some European translations of the Quran written during the medieval and renaissance period to present day.	
+
+
+## L'alcorano di Macometto, nel qual si contiene la dottrina, la vita, i costumi, et le leggi sue. Tradotto nuovamente dall'arabo in lingua italiana [1547, Italian translation] The Alcoran of Macometto : which contains his doctrine, life, customs and laws
+
+Giovanni Battista Castrodardo wrote the first Italian translation of the Quran in 1547 at the request of Andrea Arrivabene. It was based on a Latin version by English astronomer and priest, Robert Ketton, from 1143. A portion of the book describes the history of Islam and Islamic culture with an attempt to provide knowledge to Europeans regarding this new religion. However, in the wake of the crusades, many negative stereotypes and offensive imagery about Muhammad and Islam prevailed in Europe. As a result of this polemic attitude towards Islam, this version contains inaccuracies, alterations, additional text and Christian criticism relating to Islamic doctrine. Despite this, it was widely translated across Europe. This version is not based on the Quran and is, instead, now regarded as a historical book that reflects the general attitude, in Europe, towards Islam during the renaissance period. This book was part of the original collection donated to the Inn by Robert Ashley in 1642.
+
+<param ve-image 
+       label="The Alcoran of Macometto : which contains his doctrine, life, customs and laws" 
+       url="https://user-images.githubusercontent.com/110464039/235193659-fd776ab1-10d9-4815-8a94-2ff2a3d755e9.jpg">
+       
+<param ve-image 
+       label="The Alcoran of Macometto : which contains his doctrine, life, customs and laws" 
+       url="https://user-images.githubusercontent.com/110464039/235193726-4697cb8c-47b9-42ce-9fe0-0588549ba399.jpg">
+       
+
+## The Koran, commonly called the Alcoran of Mohammed, translated into English immediately from the original Arabic; with explanatory notes, taken from the most approved commentators [1734]
+
+George Sale was a lawyer and a member of the Inner Temple. He was also a member of the Society for Promoting Christian Knowledge. His interest in religion led him to write an English translation of the Quran in 1734, which was based on a Latin translation by Ludovico Maracci of 1698. Although it was not the first Quran to be translated into the English language, it was more accurate than previous versions and was widely used in Europe. Previously, Qurans had been translated in Europe for political reasons. However, as an Orientalist scholar, Sale had knowledge of the Arabic language and an interest in learning about Islam from authentic sources. He also wanted to translate a version of the Quran which was free from earlier Christian criticism relating to Islamic doctrine. To assist him in this endeavour he consulted Ottoman sources of the Islamic sciences of Tafsir (explanation of Quran) and Hadith (a collection of sayings of the Prophet Muhammad) to provide accuracy. Sale was keen that the text was read in conjunction with the commentary for a better understanding of the Quran. It includes a lengthy preliminary discourse and commentary from Islamic Tafsir and Hadith scholars explaining the verses and context of revelation of verses. For this reason, it was widely accepted by Muslims and non-Muslims. 
+
+<param ve-image 
+       label="The Koran, commonly called the Alcoran" 
+       url="https://user-images.githubusercontent.com/110464039/235194517-2bed1c86-f103-4475-82c0-cb52262d6481.jpg">
+       
+<param ve-image 
+       label="The Koran, commonly called the Alcoran" 
+       url="https://user-images.githubusercontent.com/110464039/235194628-626e92e9-3124-41bb-a5cf-714942573fe5.jpg">
+
+
+## Historia Iosephi patriarchae, ex Alcorano, Arabicè. Cum triplici versione Latina, & scholijs Thomae Erpenii, cujus & alphabetum Arabicum praemittitur [MT Library collection – 1617, Qur'an Latin & Arabic] The history of the patriarch Joseph, from the Koran, in Arabic. With a triple Latin version, and the scholias of Thomas Erpenius, whose Arabic alphabet is prefaced
+
+This book is a Latin translation of Surah Yusuf (Chapter Joseph) from the Quran, translated by Dutch scholar Thomas Erpenius in 1617. In Islam, Joseph is revered as a prophet and a descendant of Abraham (Ibrahim). Unlike other chapters in the Quran, this chapter contains a complete story. This is considered the best of stories.
+<br><br>
+This version contains Latin and word for word Arabic translation. Towards the 17th century, there was a significant development in Arabic studies in Europe and improvement in understanding of Arabic grammar similar to early Islamic Arabic language scholars. Thomas Erpenius was a scholar in Arabic studies and had previously written a book on Arabic grammar in 1613 with use of scientific Arabic grammatical tables for verb conjugations. Although Erpenius rose to the linguistic challenge of attempting to create a literal translation of the Quran, he did not make references to authentic Islamic sources of Tafsir and Hadith, to provide further explanation and understanding of verses. This book was part of the original collection donated to the Inn by Robert Ashley. 
+
+<param ve-image 
+       label="Historia Iosephi patriarchae" 
+       url="https://user-images.githubusercontent.com/110464039/235194916-4ac6076f-cb97-4d21-b995-54186cb87df7.jp">
+
+<param ve-image 
+       label="Historia Iosephi patriarchae" 
+       url="https://user-images.githubusercontent.com/110464039/235194982-be23f17d-43ff-436e-876c-f0eccbc96c7d.jpg">
+
+
+## The Majestic Quran translated by Dr Musharraf Hussain Al Azhari, OBE [2020]
+
+This recent English translation of the Quran by Islamic scholar, Dr Musharraf Hussain, explains the verses in simple, clear English with context and commentary to enhance understanding. It also includes sub-headings, themes and lessons that can be learnt from the chapters to promote contemplation over the verses and foster a connection with God. Dr Musharraf Hussain is an Islamic scholar who has studied the Quran for most of his life and has studied the Islamic sciences including, Tafsir and Hadith at the renowned Al-Akzar University in Egypt. This Quran can be found on the 3rd floor in Middle Temple’s new multi-faith room.
+Here, Dr Musharraf Hussain, explains the context of the revelation of chapter Yusuf (Joseph) and compares it to the version in the Bible. He describes the prophetic dream Joseph has regarding eleven stars and the sun and the moon. This dream is also mentioned in the Bible and the Torah. We also learn about Joseph’s upright characteristics and the moral lessons that can be derived from this chapter. It is easy to understand and an accessible translation of the Quran.
+In the next case, we will look at the significance of references to celestial bodies in the Quran and how these verses would have influenced the works of early Islamic scientists, mathematicians and astronomers.
+
+<param ve-image 
+       label="The Majestic Quran translated by Dr Musharraf Hussain Al Azhari, OBE " 
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/files/11355211/The.Majestic.Quran.translated.by.Dr.Musharraf.Hussain.pdf">
