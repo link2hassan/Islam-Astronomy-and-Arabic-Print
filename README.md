@@ -358,3 +358,115 @@ This 14th century astronomical calendar is written in Latin and German. It is da
        label="astronomica quaedam ex traditione - Arabic text" 
        url="https://user-images.githubusercontent.com/110464039/235958830-d0904c1f-2a7f-4450-a0fe-1b8573170a66.jpg">
 
+
+## Mariam al-Astrulabi: Astrolabe
+
+Islamic scholars created numerous tools to work out prayer timings and to map the stars. One of these tools was the astrolabe. Although the exact origin of the astrolabe is unknown, it is believed that it was originally Invented by Greek astronomers and later adapted by many Islamic scholars for the purpose of calculating prayer times and determining the direction of the qibla in Mecca.
+<br><br> 
+One famous scholar was Mariam al-ljliya, also known as Mariam al-Astrulabi, who was a Syrian Astrolabe maker. She was skilled in craftsmanship and had advanced knowledge of mathematics, which she utilised to create accurate instruments. She was recognised in her time, in the 10th century, for her contributions to astrolabe making and as a result was employed at the court of Aleppo by the ruler, Sayf Al Dawla.
+
+ <param ve-image 
+       label="Iranian Astrolabe 14 by Jacopo Koushan (User:Jacopo188) Photograph by Masoud Safarniya (User:M.safarniya) is licensed under CC BY-SA 3.0." 
+       url="https://user-images.githubusercontent.com/110464039/235965443-a59319a4-9b44-4c42-964c-70b9f9b7911c.jpg">
+
+
+## Astrology not permitted in Islam
+
+Astrology was a pre-Islamic practice that was prevalent in Arabia and in other territories across the Islamic World. Astrology can also be found in ancient Greek, Indian and Chinese astronomy works, which were later translated and used by early Islamic astronomers as the building blocks for developing the field of astronomy. For these reasons, some early Islamic scholars, when observing the skies and stars, studied astrology in conjunction with astronomy.
+<br><br>
+However, astrology is not permitted in Islam, as it is believed that only God has knowledge of future events. Believing that humans can predict the future would be denying the omnipotent power of God.
+<br><br>
+Following the decline of the use of court astrologers in the Islamic World, Islamic astronomical works focused on the scientific and mathematical aspects of astronomy, rather than mixing the two concepts of astrology with astronomy. In 1580, an observatory in Constantinople, in the Ottoman Empire, was destroyed as it was constructed for the practice of astrology rather than astronomy. Due to this clear distinction, the field of astronomy developed significantly with the aid of Islamic advances in precise mathematics and scientific tools and instruments.
+
+## Al-Qabisi: Treatise on the Judgment of the Stars
+
+Alcabitii ad magisterium iudiciorum astrorum Isagoge: / commentario Ioannis Saxonii declarata [1521]
+<br><br>
+As Islamic scholars were polymaths, they studied several subjects at once. Some early astronomers studied the medieval discipline of astrology alongside astronomy to try to understand the celestial bodies. One such astronomer was Al-Qabisi, who wrote several influential works on astronomy, astrology and maths during the 10th century. He was known in the Latin World as, Alcabitius. This treatise on the Judgment of the Stars was translated into Latin and other European languages from the 12th century onwards. In 1521, John of Saxony, a Parisian astronomer, wrote commentary about Al-Qabisi. As well as astrology, this treatise also refers to detailed astronomical tables for computing the position of celestial bodies. Al-Qabisi’s other works include a book about arithmetic and works on solving astronomical tables. His works greatly contributed to furthering the understanding of astronomy in Europe.
+
+ <param ve-image 
+       label="Al-Qabisi Treatise on the Judgment of the Stars" 
+       url="https://user-images.githubusercontent.com/110464039/235965864-529fa1f8-39f1-4bfa-a6c5-af6bafd4f03a.png">
+       
+
+## Ibn al-Haytham: Scientific Method  
+
+Ibn al-Haytham, who lived in Cairo in the 10th century, was known in Europe as Alhazen and was famous for his pioneering scientific approach to astronomy. He developed the scientific approach of using hypothesis with mathematics and experiments to gather scientific evidence for his astronomical works. He is also known as the father of optics for his enormous contribution to the field of light rays. He wrote several astronomical works, including works on the Milky Way which had great influence on European scholars.
+
+ <param ve-image 
+       label="Al-Qabisi Treatise on the Judgment of the Stars" 
+       url="https://user-images.githubusercontent.com/110464039/235966261-083a9ee4-3f24-4edd-baf6-0553e712c284.jpg">
+
+## Nasir al-Din al-Tusi: Tusi Couple
+
+Nasir al-Din al-Tusi was a 13th century brilliant mathematician and scientist who developed the theory of Haya, the mathematics of the celestial and terrestrial spheres. He most famously developed the Tusi Couple, which was a mathematical planetary model to determine the motion of celestial bodies. He also created accurate tables of planetary motion. His work has been praised for its precise mathematical theories and use of trigonometry and geometry. His influence can later be seen in the later works of renaissance astronomers, such as Copernicus.
+
+ <param ve-image 
+       label="Library of Congress Vatican Exhibit, Rome Reborn, https://www.loc.gov/exhibits/vatican/images/math19.jpg Public domain" 
+       url="https://user-images.githubusercontent.com/110464039/235969461-abd7d853-798a-4252-bc13-af383f0e1544.jpg">
+
+	
+## 883-1590: the publishing history of Kitāb fī Jawāmiʿ ʿIlm al-Nujūm in the West 
+	
+After Christmann’s translation in 1590, the best-known edition to be published was Jacob Golius’ in 1669, printed in Amsterdam. He published the Arabic text together with his own Latin translation under the title Muhammedos Fil. Ketiri Ferganesis, Qui vulgo al-Fraganus dicitur, Elementa Astronomica, Arabice & Latine. Cum notis ad res exoticas sive Orientales, qua in iis occurunt.
+	
+ <param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/235974585-a640899c-ec31-448c-ab3b-085e21a19f65.jpg">
+
+
+## 1590: Al-Farghānī, Jacob Christmann, and translating the stars
+	
+Abū al-ʿAbbās Aḥmad ibn Muḥammad ibn Kathīr al-Farghānī (800-870) was a significant figure among early medieval astronomers and mathematicians.  His works played a major role in transmitting Islamic scientific knowledge to the West.* 
+Seven works by al-Farghānī survive, which include his most notable: Jawāmi 'ilm al-nujūm wa-usūl al-harakāt al-samāwiyya (Compendium of Astronomy and the Principles of Celestial Motions). As already established, al-Farghānī’s dates are not entirely clear, but it has been suggested by scholars like Abdukhalimov (1999) that the Compendium was written between 833 and 861.
+<br><br>
+* Bahrom Abdukhalimov acknowledges that: “although Al-Farghānī is well known in the history of medieval science, the available information on his life and scientific activitiy is very limited and often contradictory; even his fill name and dates of birth and death are uncertain” (1999, ‘Ahmad al-Farghānī and his “Compendium of Astronomy”’ in Journal of Islamic Studies. Vol. 10, No. 2.)
+
+ <param ve-image 
+       label="Muhamedis Alfragani" 
+       url="https://user-images.githubusercontent.com/110464039/235975443-a11a1a23-5146-412e-8101-de40674854c5.jpg">
+       
+## 
+
+The Compendium is a short introduction course 	in astronomy based on Ptolemy’s Almagest, comprising about seventy pages and thirty chapters. It describes the main facets of astronomy: the hevens, the planets, the stars, the sun, the moon, and the earth, including their movements. He also provides a list of well-known lands and cities. His aim was to present his work in a simple style without complicated mathematical calculations.
+<br><br>
+The Compendium remained one of the most influential and widely-used astronomical works in the Islamic world and Europe during the Middle Ages. The number of translations that followed during the 1100s to the late-17th century is testament to this.
+
+ <param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/235982669-3bd59c2d-9cb9-4b40-b8a0-5ef08b09567d.jpg">
+       
+
+## Manicules and markings: English readers of Arabic writings
+Middle Temple Library’s copy of Muhamedis Alfragani Arabis Chronologica et astronomica elementa, contains contemporary marginalia in the form of manicules and bracket marks. William H. Sherman posits that: ‘[Manicules derive] from the Latin manicula, simply meaning “little hand,” and that really captures what it is without getting into the messy business of what it does.’ 
+<br><br>
+With regards to the latter, two questions immediately arise: what function do they serve? And, who drew them in? Both questions are not easily answered. The function of the manicle present in books across the early modern period is a multiplicitous one: from marking noteworthy sentences to highlighting problematic passages, it gives scholars today an insight into the minds, reading habits, and early modern readers’ interaction with books. As to who drew them in the astronomica elementa, we are not entirely sure as no name or signature is present.
+
+ <param ve-image 
+       label="Muhamedis Alfragani - manicule" 
+       url="https://user-images.githubusercontent.com/110464039/235982986-a8c6f6e9-658f-4faf-9af0-d54e8f04d826.jpg">
+       
+       
+## 1652: Astronomica quædam ex traditione Shah Cholgii Persæ
+
+As explored in the other case, John Greave’s publication of Ulugh Beg’s Carinacula marked a cornerstone moment in Arabic printing in Oxford. In 1652, he went on to translate and publish Maḥmūd Shāh Khuljī’s treatise on the planets under the title of Astronomica quædam ex traditione Shah Cholgii Persæ. Unlike Christmann’s translation of Al-Farghānī’s Compendium, which favoured simplicity of thought over scientific technicality, Greave’s translation of Shāh Khuljī’s Astronomica provided readers with a visual exploration of the planets and heavens.
+
+ <param ve-image 
+       label="astronomica quaedam ex traditione - Arabic text" 
+       url="https://user-images.githubusercontent.com/110464039/235983174-96192078-3108-49b4-a060-e747ab4193d2.jpg">
+ 
+ 
+## Charting the universe
+The open pages show a diagram of the shape of Saturn's sphere on a flat surface (page 36), within the context of Centrum Mundi – the centre of the world. Page 35 is the original Persian language it was written in. Unlike the beginners’ course-like design of Al-Farghānī’s Compendium, Shāh Khuljī’s study is scientifically rigorous to its core: throughout its pages are diagrams of planets and the moon.
+<br><br>
+The impact on wider Europe of works like those by Shāh Khuljī and Al-Farghānī demonstrate the signifiance of their place in the history of astronomical science. Their writings, which underwent multiple translations and editions – to the extent that the demand for more sophisticated moveable Arabic type to uphold the integrity of the original script – continued right up the 18th century. 
+
+ <param ve-image 
+       label="Lunae" 
+       url="https://user-images.githubusercontent.com/110464039/235983174-96192078-3108-49b4-a060-e747ab4193d2.jpg">
+
+ <param ve-image 
+       label="Mercurii" 
+       url="https://user-images.githubusercontent.com/110464039/235985133-29d216bf-4c86-4926-bfa9-b2061929447a.jpg">
+
+ <param ve-image 
+       label="Saturnii" 
+       url="https://user-images.githubusercontent.com/110464039/235985218-4f3387f9-ef72-47bc-b483-968cba227dcd.jpg">
