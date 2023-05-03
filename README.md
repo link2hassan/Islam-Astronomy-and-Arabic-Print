@@ -321,6 +321,40 @@ And it is He who placed for you the stars that you may guided by them through th
 This verse explains that God created the stars for the benefit of mankind, by providing light and a source of navigation through knowledge of mapping the stars. As the Quran was revealed in Arabia, desert Arabs had a tradition of observing the night sky and using the stars for navigation. Looking up at the sky to the stars has always been a source of awe and wonderment for mankind. For Muslims, the stars are also a sign of the greatness, power, and beauty of God as the constellations are a beautiful part of His creation. 
 
 <param ve-image 
-       label=""File:Clear Desert Night Sky (Unsplash).jpg" by Jared Evans chromogenic is marked with CC0 1.0." 
+       label="File:Clear Desert Night Sky (Unsplash).jpg" by Jared Evans chromogenic is marked with CC0 1.0." 
        url="https://user-images.githubusercontent.com/110464039/235210961-55e0c7d3-7c26-412b-bf36-6a4d9d144aba.jpg">
+
+
+## Golden Age of Islamic Scientific Scholarship
+
+The age of Islamic scholarship began with the revelation of the Quran in the 7th century and continues to this day. The golden age of Islamic scientific scholarship spanned from the 7th century to the renaissance period. Islamic empires dominated much of the world during this period, and Islamic centres of learning were created in major cities across the globe including, Baghdad, Cordoba, Constantinople, Fez, Tripoli, Cairo and Timbuktu, which was closed off to Europeans until the 19th century. Some of these centres of learning saw Muslim and non-Muslim scholars studying together, particularly in Andalusia, Spain.
+<br><br>
+Various institutions were created under Islamic rule including, universities, schools, the first public library, public hospitals and observatories for astronomical research as oppose to private use only. Islamic rulers and wealthy patrons funded astronomical research. This period saw the start of a scientific approach to observing the universe and many new instruments were created for precisely calculating the position of the celestial bodies.
+<br><br> 
+Although many Arabic manuscripts were lost and destroyed during the Crusades, a number of them found their way to Europe, possibly through the Silk Road, and were translated into Latin and European languages to preserve knowledge. The following exhibits look at the work of these great Islamic scholars and how they contributed to the advancement of astronomy with the introduction of advanced mathematics, algebra, trigonometry and geometry.
+
+
+## Abd al-Rahman al-Sufi: Book of Fixed Stars
+
+In the 10th century, in the year 964, Iranian astronomer, Abd al-Rahman al-Sufi, wrote The Book of Fixed Stars, which describes 48 constellations. He was known as Azophi in Europe. The book contains star charts and longitude and latitude coordinates. He worked on correcting the earlier astronomical works, ‘The Almagest’ by the Greek scholar, Ptolemy, which was written in the 2nd century. The Almagest had been the most influential astronomical work available at the time. Al-Sufi’s monumental book aided Islamic astronomers in having precise calculations for navigating the stars.
+
+<param ve-image 
+       label="Kitab suwar al-kawakib al-thabita (Book of the Images of the Fixed Stars) of al-Sufi" by `Abd al-Rahman al-Sufi is marked with CC0 1.0." 
+       url="https://user-images.githubusercontent.com/110464039/235957928-479d5321-20ed-4049-8403-498489e7185c.jpg">
+
+														   
+## 14th Century Astronomical Calendar
+														   
+Astronomiae liber sive calendariumn [1390 – 1415]
+<br><br> 														   
+This 14th century astronomical calendar is written in Latin and German. It is dated around 1390 to 1415. Although it is not from an Islamic source, this calendar is a reflection of the different astronomical theories circulating in Europe at the time. It contains a mixture of information from astrolabes and astronomical tables to constellations and astrology. 
+
+
+<param ve-image 
+       label="astronomica quaedam ex traditione - planet diagram" 
+       url="https://user-images.githubusercontent.com/110464039/235958480-a620b832-9bf5-4c2a-ace9-a8eb0890301d.jpg">
+       
+ <param ve-image 
+       label="astronomica quaedam ex traditione - Arabic text" 
+       url="https://user-images.githubusercontent.com/110464039/235958830-d0904c1f-2a7f-4450-a0fe-1b8573170a66.jpg">
 
