@@ -3,7 +3,7 @@
 <param ve-config 
        title="Islam, Astronomy and Arabic Print"
        author="Middle Temple Library"
-       banner="https://user-images.githubusercontent.com/110464039/235188811-19501cb9-3843-47af-8215-5db5764d13ee.jpg" 
+       banner="https://user-images.githubusercontent.com/110464039/235194982-be23f17d-43ff-436e-876c-f0eccbc96c7d.jpg" 
        layout="vertical">
    
 ## Islam, Astronomy, and Arabic Print: A collection showcase at Middle Temple Library
@@ -344,9 +344,9 @@ In the 10th century, in the year 964, Iranian astronomer, Abd al-Rahman al-Sufi,
 
 														   
 ## 14th Century Astronomical Calendar
-														   
+
 Astronomiae liber sive calendariumn [1390 – 1415]
-<br><br> 														   
+<br><br>
 This 14th century astronomical calendar is written in Latin and German. It is dated around 1390 to 1415. Although it is not from an Islamic source, this calendar is a reflection of the different astronomical theories circulating in Europe at the time. It contains a mixture of information from astrolabes and astronomical tables to constellations and astrology. 
 
 
@@ -461,7 +461,7 @@ The impact on wider Europe of works like those by Shāh Khuljī and Al-Farghān�
 
  <param ve-image 
        label="Lunae" 
-       url="https://user-images.githubusercontent.com/110464039/235983174-96192078-3108-49b4-a060-e747ab4193d2.jpg">
+       url="https://user-images.githubusercontent.com/110464039/236225111-e6ce42fa-f155-41e8-87f0-e08f49377c3e.jpg">
 
  <param ve-image 
        label="Mercurii" 
