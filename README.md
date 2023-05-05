@@ -5,7 +5,13 @@
        author="Middle Temple Library"
        banner="https://user-images.githubusercontent.com/110464039/235194982-be23f17d-43ff-436e-876c-f0eccbc96c7d.jpg" 
        layout="vertical">
-   
+
+## 
+Welcome to Middle Temple Library’s exhibition on Islam, Astronomy, and Arabic Print
+<param ve-image 
+       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
+
+
 ## Islam, Astronomy, and Arabic Print: A collection showcase at Middle Temple Library
 
 This exhibition was born out of an idea to showcase some of Middle Temple Library’s lesser-known printed and manuscript codicies that embody the presence of the Arabic and Islamic worlds across Europe between the sixteenth and seventeenth centuries. It tells the story of the emergence of Arabic print culture that flourished in the printing houses of London and Oxford nearly a century after Gutenberg’s revolutionary press. It goes onto explore the interest in the Quran across major European cities during this epoch of wider fascination into Islamic scholarship. And ends by looking at the impact of Islamic astronomy on writers and thinking in England during a period of dramatic growth in scientific and religious understanding of the universe. 
