@@ -310,9 +310,6 @@ The words khaitul abyadu  ٱلْخَيْطُ ٱلْأَبْيَض   means, ‘th
 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/235210308-405bbf97-15f0-4c1f-93c9-9a63e04ad488.jpg">
-       
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/235210390-bb536a44-5507-4f6b-8dec-b8d1bf0be4b7.jpg">
 
 <param ve-image 
        label="Surah Baqarah Dawn breaking" 
