@@ -195,7 +195,9 @@ This version contains Latin and word for word Arabic translation. Towards the 17
 ## The Majestic Quran translated by Dr Musharraf Hussain Al Azhari, OBE [2020]
 
 This recent English translation of the Quran by Islamic scholar, Dr Musharraf Hussain, explains the verses in simple, clear English with context and commentary to enhance understanding. It also includes sub-headings, themes and lessons that can be learnt from the chapters to promote contemplation over the verses and foster a connection with God. Dr Musharraf Hussain is an Islamic scholar who has studied the Quran for most of his life and has studied the Islamic sciences including, Tafsir and Hadith at the renowned Al-Akzar University in Egypt. This Quran can be found on the 3rd floor in Middle Temple’s new multi-faith room.
+<br><br>
 Here, Dr Musharraf Hussain, explains the context of the revelation of chapter Yusuf (Joseph) and compares it to the version in the Bible. He describes the prophetic dream Joseph has regarding eleven stars and the sun and the moon. This dream is also mentioned in the Bible and the Torah. We also learn about Joseph’s upright characteristics and the moral lessons that can be derived from this chapter. It is easy to understand and an accessible translation of the Quran.
+<br><br>
 In the next case, we will look at the significance of references to celestial bodies in the Quran and how these verses would have influenced the works of early Islamic scientists, mathematicians and astronomers.
 
 <param ve-image 
