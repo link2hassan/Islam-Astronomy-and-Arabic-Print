@@ -144,6 +144,10 @@ As Muhammad was illiterate, Muslims consider the Quran to be a miracle of God. T
 <br><br>
 [Please click on this link to see a digitised version](https://digitalcollections.usfca.edu/digital/collection/p264101coll7/id/7503/)
 
+<param ve-image 
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/files/11440689/What.is.the.Quran.Image.pdf">
+       
+
 ## European Translations of the Quran
 
 During the medieval period, there was a growing interest in translating the Quran in Europe for various reasons. Islamic empires at the time were far-reaching across the globe and were having an impact on Europe, having reached Andalusia in Spain and Sicily. Under the patronage of archbishops, translators were initially commissioned to translate the Quran with the intention to convert Muslims to Christianity.
@@ -216,6 +220,10 @@ In the next case, we will look at the significance of references to celestial bo
 There are many verses in the Quran that talk about the wonders of the universe and encourage the reader to look up to the skies and contemplate their existence within this universe. These include verses about the orbits of the celestial bodies, the sun, the moon, the stars, the darkness of space, the creation of time and the creation of night and day. Early Islamic scientists and astronomers would have been influenced by these verses, as the Quran is considered a source of knowledge for mankind. There are many references, in the Quran, to scientific and mathematical concepts and how they interrelate to acknowledging the existence of God.<br><br> 
 Over the next few exhibits, we will look at the verses that relate to celestial bodies to understand how they would have shaped the practice of astronomy in the early Islamic period.
 
+<param ve-image
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/41fd7e4c-4d15-43e3-b0e5-41a98296c69a">
+
+
 ## Surah Mulk: The Sovereignty
 
 The word Mulk  ٱلْمُلْك  from the name of the chapter means, ‘sovereignty’ or ‘dominion’ and refers to the sovereignty or ownership that God has over everything that exists within the universe. By reading the chapter, readers can learn about the power and control that God has over their lives and over everything in the universe. The attributes of God are described in the verses for the reader to become knowledgeable about their Creator. Early Islamic scientists and astronomers would have been striving to learn more about their Creator by discovering more about the skies above them.
@@ -228,9 +236,6 @@ Allazee khalaqa sab'a samaawaatin tibaaqam maa taraa fee khalqir rahmaani min ta
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/235204344-56d3afba-a3fe-4267-9805-182395ff0a56.jpg">
        
-<param ve-image 
-       label="Surah Mulk: The Sovereignty" 
-       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/files/11355583/Surah.Mulk.The.Sovereignty.pdf">
        
 ## Surah Mulk Verse 4 – Look up again
 
@@ -247,6 +252,9 @@ By noticing the perfection of the universe, Muslims believe this alludes to the 
 
 [Please click on this link for Audio and Tafsir (explanation of verses) of Surah Mulk](https://myislam.org/surah-al-mulk/)
 
+<param ve-image 
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/files/11440737/Surah.Mulk.Verses.3.and.4.Perfection.of.the.Universe.pdf">
+
 
 ## Surah Yasin: Heart of the Quran 
 
@@ -262,6 +270,9 @@ Surah Yasin, which is considered the heart of the Quran, contains verses that de
 Wa Aayatul lahumul lailu naslakhu minhun nahaara fa-izaa hum muzlimoon<br><br> 
 And a Sign for them is the Night. We remove from it [the light of] day so, they are [left] in darkness.<br><br> 
 Scholars of Quran have stated that, this verse talks about the fact that the default position of the universe is to be in darkness. The alternation of night and day has been created by God to serve mankind. The reader is encouraged to reflect on their life without the existence of daylight. For Muslims, it invokes a feeling of gratitude towards their Creator for sustaining them through various systems in the universe such as the existence of the sun. In another verse, the sun is described as a lamp giving light.
+
+<param ve-image 
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/f7993de3-94cc-44b3-9323-7805dd9b676b">!
 
 
 ## Phases of the moon
@@ -315,7 +326,10 @@ The sun and moon move in harmony as everything in the universe is made in exact 
 
 
 ## Surah Baqarah Verse 187 – Breaking of dawn
-	
+
+وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ۖ ثُمَّ أَتِمُّوا۟ 
+ٱلصِّيَامَ إِلَى ٱلَّيْل
+<br><br> 
 Wa kuloo washraboo hattaa yatabaiyana lakumul khaitul abyadu minal khaitil aswadi minal fajri summa atimmus Siyaama ilal layl;
 <br><br> 
 And eat and drink, until the white thread of dawn appear to you distinct from its black thread [of night]. Then complete your fast until the sunset.  
@@ -325,7 +339,6 @@ This extract from verse 187 of Surah Baqarah talks about how to know when dawn i
 The words khaitul abyadu  ٱلْخَيْطُ ٱلْأَبْيَض   means, ‘the white thread’ and refers to the white line of light that can be seen across the horizon at the time when dawn breaks in the morning. This is a line that is distinct from the blackness of the night sky. These verses and the knowledge of the movements of the sun are beneficial in calculating the five daily prayer times. 
 
 [Please click on this link for Audio and Tafsir (explanation of verses) of Surah Baqarah](https://myislam.org/surah-baqarah/)
-
 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/235210308-405bbf97-15f0-4c1f-93c9-9a63e04ad488.jpg">
@@ -345,17 +358,20 @@ This verse explains that God created the stars for the benefit of mankind, by pr
 [Please click on link below for Audio and Tafsir (explanation of verses) of Surah Anam](https://myislam.org/surah-al-anam/)
 
 <param ve-image 
-       label="File:Clear Desert Night Sky (Unsplash).jpg" by Jared Evans chromogenic is marked with CC0 1.0." 
+       label="File:Clear Desert Night Sky (Unsplash).jpg by Jared Evans chromogenic is marked with CC0 1.0." 
        url="https://user-images.githubusercontent.com/110464039/235210961-55e0c7d3-7c26-412b-bf36-6a4d9d144aba.jpg">
 
 
 ## Golden Age of Islamic Scientific Scholarship
-														   
+										   
 The age of Islamic scholarship began with the revelation of the Quran in the 7th century and continues to this day. The golden age of Islamic scientific scholarship spanned from the 7th century to the renaissance period. Islamic empires dominated much of the world during this period, and Islamic centres of learning were created in major cities across the globe including, Baghdad, Cordoba, Constantinople, Fez, Tripoli, Cairo and Timbuktu, which was closed off to Europeans until the 19th century. Some of these centres of learning saw Muslim and non-Muslim scholars studying together, particularly in Andalusia, Spain.
 <br><br>
 Various institutions were created under Islamic rule including, universities, schools, the first public library, public hospitals and observatories for astronomical research as oppose to private use only. Islamic rulers and wealthy patrons funded astronomical research. This period saw the start of a scientific approach to observing the universe and many new instruments were created for precisely calculating the position of the celestial bodies.
 <br><br> 
 Although many Arabic manuscripts were lost and destroyed during the Crusades, a number of them found their way to Europe, possibly through the Silk Road, and were translated into Latin and European languages to preserve knowledge. The following exhibits look at the work of these great Islamic scholars and how they contributed to the advancement of astronomy with the introduction of advanced mathematics, algebra, trigonometry and geometry.
+
+<param ve-image 
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/310a9f32-edbf-4700-ac1e-0c38929c3cac">
 
 
 ## Abd al-Rahman al-Sufi: Book of Fixed Stars
@@ -363,7 +379,7 @@ Although many Arabic manuscripts were lost and destroyed during the Crusades, a 
 In the 10th century, in the year 964, Iranian astronomer, Abd al-Rahman al-Sufi, wrote The Book of Fixed Stars, which describes 48 constellations. He was known as Azophi in Europe. The book contains star charts and longitude and latitude coordinates. He worked on correcting the earlier astronomical works, ‘The Almagest’ by the Greek scholar, Ptolemy, which was written in the 2nd century. The Almagest had been the most influential astronomical work available at the time. Al-Sufi’s monumental book aided Islamic astronomers in having precise calculations for navigating the stars.
 
 <param ve-image 
-       label="Kitab suwar al-kawakib al-thabita (Book of the Images of the Fixed Stars) of al-Sufi" by `Abd al-Rahman al-Sufi is marked with CC0 1.0." 
+       label="Kitab suwar al-kawakib al-thabita (Book of the Images of the Fixed Stars) of al-Sufi by `Abd al-Rahman al-Sufi is marked with CC0 1.0." 
        url="https://user-images.githubusercontent.com/110464039/235957928-479d5321-20ed-4049-8403-498489e7185c.jpg">
 
 														   
@@ -375,12 +391,10 @@ This 14th century astronomical calendar is written in Latin and German. It is da
 
 
 <param ve-image 
-       label="astronomica quaedam ex traditione - planet diagram" 
-       url="https://user-images.githubusercontent.com/110464039/235958480-a620b832-9bf5-4c2a-ace9-a8eb0890301d.jpg">
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/bc36e8de-7ebf-4251-aa20-c1e3e4aef71a">
        
  <param ve-image 
-       label="astronomica quaedam ex traditione - Arabic text" 
-       url="https://user-images.githubusercontent.com/110464039/235958830-d0904c1f-2a7f-4450-a0fe-1b8573170a66.jpg">
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/6ed9df50-7dfe-4ec0-b717-d753806bbbe3">
 
 
 ## Mariam al-Astrulabi: Astrolabe
@@ -401,6 +415,10 @@ Astrology was a pre-Islamic practice that was prevalent in Arabia and in other t
 However, astrology is not permitted in Islam, as it is believed that only God has knowledge of future events. Believing that humans can predict the future would be denying the omnipotent power of God.
 <br><br>
 Following the decline of the use of court astrologers in the Islamic World, Islamic astronomical works focused on the scientific and mathematical aspects of astronomy, rather than mixing the two concepts of astrology with astronomy. In 1580, an observatory in Constantinople, in the Ottoman Empire, was destroyed as it was constructed for the practice of astrology rather than astronomy. Due to this clear distinction, the field of astronomy developed significantly with the aid of Islamic advances in precise mathematics and scientific tools and instruments.
+
+ <param ve-image 
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/6cef0e61-10f8-406d-a535-4099ef45baf1">
+       
 
 ## Al-Qabisi: Treatise on the Judgment of the Stars
 
