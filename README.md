@@ -183,7 +183,9 @@ George Sale was a lawyer and a member of the Inner Temple. He was also a member 
 
 This book is a Latin translation of Surah Yusuf (Chapter Joseph) from the Quran, translated by Dutch scholar Thomas Erpenius in 1617. In Islam, Joseph is revered as a prophet and a descendant of Abraham (Ibrahim). Unlike other chapters in the Quran, this chapter contains a complete story. This is considered the best of stories.
 <br><br>
-This version contains Latin and word for word Arabic translation. Towards the 17th century, there was a significant development in Arabic studies in Europe and improvement in understanding of Arabic grammar similar to early Islamic Arabic language scholars. Thomas Erpenius was a scholar in Arabic studies and had previously written a book on Arabic grammar in 1613 with use of scientific Arabic grammatical tables for verb conjugations. Although Erpenius rose to the linguistic challenge of attempting to create a literal translation of the Quran, he did not make references to authentic Islamic sources of Tafsir and Hadith, to provide further explanation and understanding of verses. This book was part of the original collection donated to the Inn by Robert Ashley. 
+This version contains Latin and word for word Arabic translation. Towards the 17th century, there was a significant development in Arabic studies in Europe and improvement in understanding of Arabic grammar similar to early Islamic Arabic language scholars. Thomas Erpenius was a scholar in Arabic studies and had previously written a book on Arabic grammar in 1613 with use of scientific Arabic grammatical tables for verb conjugations. Although Erpenius rose to the linguistic challenge of attempting to create a literal translation of the Quran, he did not make references to authentic Islamic sources of Tafsir and Hadith, to provide further explanation and understanding of verses. This book was part of the original collection donated to the Inn by Robert Ashley.
+<br><br>
+[Please click on this link to see a digitised version](https://books.google.co.uk/books?id=EJhlAAAAcAAJ&printsec=frontcover&source=gbs_book_other_versions_r&redir_esc=y#v=onepage&q&f=false)
 
 <param ve-image 
        label="Historia Iosephi patriarchae" 
@@ -201,6 +203,8 @@ This recent English translation of the Quran by Islamic scholar, Dr Musharraf Hu
 Here, Dr Musharraf Hussain, explains the context of the revelation of chapter Yusuf (Joseph) and compares it to the version in the Bible. He describes the prophetic dream Joseph has regarding eleven stars and the sun and the moon. This dream is also mentioned in the Bible and the Torah. We also learn about Joseph’s upright characteristics and the moral lessons that can be derived from this chapter. It is easy to understand and an accessible translation of the Quran.
 <br><br>
 In the next case, we will look at the significance of references to celestial bodies in the Quran and how these verses would have influenced the works of early Islamic scientists, mathematicians and astronomers.
+
+[Please click on this link to see a preview of Surah Yusuf](https://www.majesticquran.co.uk/preview/)
 
 <param ve-image 
        label="The Majestic Quran translated by Dr Musharraf Hussain Al Azhari, OBE" 
@@ -240,6 +244,8 @@ The two verses from Surah (chapter) Mulk, above, describe the perfection of the 
 The verses explain that your eyes will become fatigued from trying to detect any flaws in the universe, as the universe has been designed with precise systems. These verses are meant to encourage the reader to investigate their surroundings, including the sky above them and ponder deeply over them. They would have inspired stargazing in conjunction with contemplation, for early Islamic astronomers.<br><br>
 Contemplating the verses of Quran is considered a form of worship as it necessitates remembering God. In Islam, it is believed that hearts find contentment in the remembrance of God. Being a monotheistic religion, having a relationship with God is the true essence of Islam.<br><br> 
 By noticing the perfection of the universe, Muslims believe this alludes to the perfection of the One who created the universe, as everything has been created in exact measure with no faults. Looking at and understanding the enormity of the universe is also humbling.
+
+[Please click on this link for Audio and Tafsir (explanation of verses) of Surah Mulk](https://myislam.org/surah-al-mulk/)
 
 
 ## Surah Yasin: Heart of the Quran 
@@ -283,6 +289,9 @@ This verse mentions the existence of orbits in the universe and the function of 
 <br><br> 
 It was not known at the time, that the sun has its own gradual orbit around the galaxy, which takes 230 million years. This was only discovered relatively recently in the early 20th century.
 
+[Please click on this link for Audio and Tafsir (explanation of verses) of Surah Yasin](https://myislam.org/surah-yaseen/)
+
+
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/235209560-b2c598cb-683b-4eab-b2c7-599d6b7598f3.jpg">
 
@@ -296,6 +305,9 @@ Surah Rahman Verse 5 – Calculated Orbits <br><br>
 Ashshamsu walqamaru bihusbaan<br><br> 
 The sun and the moon [move] by precise calculation.<br><br> 
 The sun and moon move in harmony as everything in the universe is made in exact proportions and working together according to precise calculations. Verses such as this one highlights the importance of using mathematics, calculations and the laws of physics when observing the universe.
+
+[Please click on link below for Audio and Tafsir (explanation of verses) of Surah Rahman](https://myislam.org/surah-ar-rahman/)
+
 
 <param ve-image 
        label="Image by Enrique from Pixabay" 
@@ -312,6 +324,9 @@ This extract from verse 187 of Surah Baqarah talks about how to know when dawn i
 <br><br> 
 The words khaitul abyadu  ٱلْخَيْطُ ٱلْأَبْيَض   means, ‘the white thread’ and refers to the white line of light that can be seen across the horizon at the time when dawn breaks in the morning. This is a line that is distinct from the blackness of the night sky. These verses and the knowledge of the movements of the sun are beneficial in calculating the five daily prayer times. 
 
+[Please click on this link for Audio and Tafsir (explanation of verses) of Surah Baqarah](https://myislam.org/surah-baqarah/)
+
+
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/235210308-405bbf97-15f0-4c1f-93c9-9a63e04ad488.jpg">
 
@@ -325,7 +340,9 @@ The words khaitul abyadu  ٱلْخَيْطُ ٱلْأَبْيَض   means, ‘th
 وَهُوَ الَّذِي جَعَلَ لَكُمُ النُّجُومَ لِتَهْتَدُوا بِهَا فِي ظُلُمَاتِ الْبَرِّ وَالْبَحْرِ ۗ قَدْ فَصَّلْنَا الْآيَاتِ لِقَوْمٍ يَعْلَمُون<br><br> 
 Wa Huwal lazee ja'ala lakumun nujooma litahtadoo bihaa fee zulumaatil barri walbahr; qad fassalnal Aayaati liqawminy ya'lamoon<br><br> 
 And it is He who placed for you the stars that you may guided by them through the darknesses of the land and sea. We have detailed the signs for people who know.<br><br> 
-This verse explains that God created the stars for the benefit of mankind, by providing light and a source of navigation through knowledge of mapping the stars. As the Quran was revealed in Arabia, desert Arabs had a tradition of observing the night sky and using the stars for navigation. Looking up at the sky to the stars has always been a source of awe and wonderment for mankind. For Muslims, the stars are also a sign of the greatness, power, and beauty of God as the constellations are a beautiful part of His creation. 
+This verse explains that God created the stars for the benefit of mankind, by providing light and a source of navigation through knowledge of mapping the stars. As the Quran was revealed in Arabia, desert Arabs had a tradition of observing the night sky and using the stars for navigation. Looking up at the sky to the stars has always been a source of awe and wonderment for mankind. For Muslims, the stars are also a sign of the greatness, power, and beauty of God as the constellations are a beautiful part of His creation.
+
+[Please click on link below for Audio and Tafsir (explanation of verses) of Surah Anam](https://myislam.org/surah-al-anam/)
 
 <param ve-image 
        label="File:Clear Desert Night Sky (Unsplash).jpg" by Jared Evans chromogenic is marked with CC0 1.0." 
@@ -333,7 +350,7 @@ This verse explains that God created the stars for the benefit of mankind, by pr
 
 
 ## Golden Age of Islamic Scientific Scholarship
-
+														   
 The age of Islamic scholarship began with the revelation of the Quran in the 7th century and continues to this day. The golden age of Islamic scientific scholarship spanned from the 7th century to the renaissance period. Islamic empires dominated much of the world during this period, and Islamic centres of learning were created in major cities across the globe including, Baghdad, Cordoba, Constantinople, Fez, Tripoli, Cairo and Timbuktu, which was closed off to Europeans until the 19th century. Some of these centres of learning saw Muslim and non-Muslim scholars studying together, particularly in Andalusia, Spain.
 <br><br>
 Various institutions were created under Islamic rule including, universities, schools, the first public library, public hospitals and observatories for astronomical research as oppose to private use only. Islamic rulers and wealthy patrons funded astronomical research. This period saw the start of a scientific approach to observing the universe and many new instruments were created for precisely calculating the position of the celestial bodies.
