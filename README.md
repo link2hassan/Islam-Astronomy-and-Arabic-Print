@@ -228,9 +228,12 @@ Over the next few exhibits, we will look at the verses that relate to celestial 
 
 The word Mulk  ٱلْمُلْك  from the name of the chapter means, ‘sovereignty’ or ‘dominion’ and refers to the sovereignty or ownership that God has over everything that exists within the universe. By reading the chapter, readers can learn about the power and control that God has over their lives and over everything in the universe. The attributes of God are described in the verses for the reader to become knowledgeable about their Creator. Early Islamic scientists and astronomers would have been striving to learn more about their Creator by discovering more about the skies above them.
 <br><br>
-Surah Mulk Verse 3 – Do you see any flaws?<br><br>
-الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَّا تَرَى فِي خَلْقِ الرَّحْمَنِ مِن تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَى مِن فُطُور<br><br>
-Allazee khalaqa sab'a samaawaatin tibaaqam maa taraa fee khalqir rahmaani min tafaawut farji'il basara hal taraa min futoor<br><br>
+Surah Mulk Verse 3 – Do you see any flaws?
+<br><br>
+الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَّا تَرَى فِي خَلْقِ الرَّحْمَنِ مِن تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَى مِن فُطُور
+<br><br>
+Allazee khalaqa sab'a samaawaatin tibaaqam maa taraa fee khalqir rahmaani min tafaawut farji'il basara hal taraa min futoor
+<br><br>
 [And] Who created seven heavens in layers. You do not see in the creation of the Most Merciful any inconsistency. So return [your] vision [to the sky]; do you see any breaks?
 
 <param ve-image 
