@@ -140,7 +140,7 @@ Muslims believe that the Quran is the word of God revealed to Prophet Muhammad i
 In Islam, it is considered the last scripture to be revealed by God, and Muhammad is believed to be the last prophet sent by God, from a long line of prophets from Adam to Noah, Abraham, Moses and Jesus, amongst many others. It is believed that the Quran confirms the same monotheistic message from previous scriptures: to believe in one God and follow the guidance from the prophets.
 <br><br>
 As Muhammad was illiterate, Muslims consider the Quran to be a miracle of God. The Quran is considered a guidance to the whole of mankind and a book of wisdom and knowledge. Muhammad spent his lifetime teaching people about the explanation of verses in the Quran and how to develop a relationship with God. He has been described as ‘a walking Quran’ as he lived his life according to Quranic principles. Since the time of Muhammad, there has been a long tradition of Islamic scholarship. Early Islamic scholars studied every aspect of the Quran in depth, ranging from religious aspects such as Islamic law and societal conduct to the mathematical, scientific and astronomical concepts mentioned within the Quran. The next few exhibits are some European translations of the Quran written during the medieval and renaissance period to present day.
-
+<br><br>
 [Please click on this link to see a digitised version](https://digitalcollections.usfca.edu/digital/collection/p264101coll7/id/7503/)
 
 ## European Translations of the Quran
