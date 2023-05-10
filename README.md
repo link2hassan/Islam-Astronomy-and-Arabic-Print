@@ -90,7 +90,8 @@ In 1614, Selden’s Titles of Honor – a monumental work devoted to peerage law
 
 ## 
 
-Some twenty-one years after the publication of Titles of Honor, Selden’s Mare Clausum was published. Its thesis supported the legal doctrine of a country’s ownership and dominion of the waters contiguous to its coastline. Middle Temple Library owns a 1635 edition, published in London, which uses a combination of Hebraic script and blackletter Gothic.<br><br><br><br>
+Some twenty-one years after the publication of Titles of Honor, Selden’s Mare Clausum was published. Its thesis supported the legal doctrine of a country’s ownership and dominion of the waters contiguous to its coastline. Middle Temple Library owns a 1635 edition, published in London, which uses a combination of Hebraic script and blackletter Gothic.
+<br><br>
 In 1636, a new edition was published in Leiden – Lvgdvni Batavorvm – which, as an established centre of printing in its own right, had begun experimenting with Arabic metal type.
 <br><br>
 Both the Titles and the 1636 Leiden edition of Mare include typeset Arabic characters that are somewhat disjointed and contain a number of large gaps where the printer has attempted to provide enough room to fit the Arabic script neatly alongside the Latin print.
