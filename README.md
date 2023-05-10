@@ -283,7 +283,7 @@ Surah Yasin, which is considered the heart of the Quran, contains verses that de
 Scholars of Quran have stated that, this verse talks about the fact that the default position of the universe is to be in darkness. The alternation of night and day has been created by God to serve mankind. The reader is encouraged to reflect on their life without the existence of daylight. For Muslims, it invokes a feeling of gratitude towards their Creator for sustaining them through various systems in the universe such as the existence of the sun. In another verse, the sun is described as a lamp giving light.
 
 <param ve-image 
-       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/f7993de3-94cc-44b3-9323-7805dd9b676b">!
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/f7993de3-94cc-44b3-9323-7805dd9b676b">
 
 
 ## Phases of the moon
@@ -353,7 +353,7 @@ The sun and moon move in harmony as everything in the universe is made in exact 
 <br><br> 
 This extract from verse 187 of Surah Baqarah talks about how to know when dawn is breaking. This knowledge is important to Muslims as the morning prayer time, Fajr, starts at dawn break. It is also when fasts begin in Ramadan, as Muslims fast from dawn to sunset.
 <br><br> 
-The words khaitul abyadu  ٱلْخَيْطُ ٱلْأَبْيَض   means, ‘the white thread’ and refers to the white line of light that can be seen across the horizon at the time when dawn breaks in the morning. This is a line that is distinct from the blackness of the night sky. These verses and the knowledge of the movements of the sun are beneficial in calculating the five daily prayer times. 
+The words khaitul abyadu  ٱلْخَيْطُ ٱلْأَبْيَض   means, ‘the white thread’ and refers to the white line of light that can be seen across the horizon at the time when dawn breaks in the morning. This is a line that is distinct from the blackness of the night sky. These verses and the knowledge of the movements of the sun are beneficial in calculating the five daily prayer times.
 
 [Please click on this link for Audio and Tafsir (explanation of verses) of Surah Baqarah](https://myislam.org/surah-baqarah/)
 
@@ -481,7 +481,7 @@ After Christmann’s translation in 1590, the best-known edition to be published
 Abū al-ʿAbbās Aḥmad ibn Muḥammad ibn Kathīr al-Farghānī (800-870) was a significant figure among early medieval astronomers and mathematicians.  His works played a major role in transmitting Islamic scientific knowledge to the West.* 
 Seven works by al-Farghānī survive, which include his most notable: Jawāmi 'ilm al-nujūm wa-usūl al-harakāt al-samāwiyya (Compendium of Astronomy and the Principles of Celestial Motions). As already established, al-Farghānī’s dates are not entirely clear, but it has been suggested by scholars like Abdukhalimov (1999) that the Compendium was written between 833 and 861.
 <br><br>
-* Bahrom Abdukhalimov acknowledges that: “although Al-Farghānī is well known in the history of medieval science, the available information on his life and scientific activitiy is very limited and often contradictory; even his fill name and dates of birth and death are uncertain” (1999, ‘Ahmad al-Farghānī and his “Compendium of Astronomy”’ in Journal of Islamic Studies. Vol. 10, No. 2.)
+Bahrom Abdukhalimov acknowledges that: “although Al-Farghānī is well known in the history of medieval science, the available information on his life and scientific activitiy is very limited and often contradictory; even his fill name and dates of birth and death are uncertain” (1999, ‘Ahmad al-Farghānī and his “Compendium of Astronomy”’ in Journal of Islamic Studies. Vol. 10, No. 2.)
 
  <param ve-image 
        label="Muhamedis Alfragani" 
