@@ -199,7 +199,7 @@ Here, Dr Musharraf Hussain, explains the context of the revelation of chapter Yu
 In the next case, we will look at the significance of references to celestial bodies in the Quran and how these verses would have influenced the works of early Islamic scientists, mathematicians and astronomers.
 
 <param ve-image 
-       label="The Majestic Quran translated by Dr Musharraf Hussain Al Azhari, OBE " 
+       label="The Majestic Quran translated by Dr Musharraf Hussain Al Azhari, OBE" 
        url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/files/11355211/The.Majestic.Quran.translated.by.Dr.Musharraf.Hussain.pdf">
 
 
