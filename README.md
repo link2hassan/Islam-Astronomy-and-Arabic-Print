@@ -24,7 +24,7 @@ This exhibition was born out of an idea to showcase some of Middle Temple Librar
 
 ## ‘ſpeciall VVords of the Eastern Tongues’: Arabic print in Renaissance London
 
-Printing and the printing of books across Europe has a well-established history. Less known, however, is the growth of Arabic printing in England, whose own story has its roots in the publishing houses of sixteenth-century London and at the University of Oxford. In this display case, and the one next to it, are a collection of books that highlight the development of Arabic moveable type in and around London between 1524 and 1648.
+Printing and the printing of books across Europe has a well-established history. Less known, however, is the growth of Arabic printing in England, whose own story has its roots in the publishing houses of sixteenth-century London and at the University of Oxford. On display we have a collection of books that highlight the development of Arabic moveable type in and around London between 1524 and 1648.
 
 <param ve-image 
        label="astronomica quaedam ex traditione - Arabic text" 
@@ -36,7 +36,7 @@ Printing and the printing of books across Europe has a well-established history.
 
 While there exists no specific date as to when Arabic printing took seed in England, the publication of Robert Wakefield’s Oratio de laudibus & vtilitate trium linguarum marked an important moment in this story. Printed in 1524 by Wynkyn de Worde of Fleet Street, Wakefield’s title – a Latin treatise on the merits of Arabic, Aramaic, and Hebrew – is considered the first work in England to contain the presence of Arabic type.
 <br><br>
-The Arabic characters that appear towards the end of the book demonstrates the early, frustrated relationship between the infancy of moveable type in Europe – which, in 1524, had been introduced only 74-years prior with the establishment of Gutenberg’s press – and the calligraphic complexity and artistry of Arabic script. The few Arabic character that are included in the book are misshapen and lack the necessary cursive nature of elegant, flowing writing.
+The Arabic characters that appear towards the end of the book demonstrates the early, frustrated relationship between the infancy of moveable type in Europe – which, in 1524, had been introduced only 74-years prior with the establishment of Gutenberg’s press – and the calligraphic complexity and artistry of Arabic script. The few Arabic characters that are included in the book are misshapen and lack the necessary cursive nature of elegant, flowing writing.
 
 <param ve-image 
        label="1524, Oratio de laudibus & vtilitate trium linguarum" 
@@ -45,9 +45,9 @@ The Arabic characters that appear towards the end of the book demonstrates the e
 
 ## 1592: A dream in Venice, Paris, London 
 
-irst published in Venice in 1499, Francesco Colonna’s poem tells the story of the dream of Poliphilo, whose unrequited love for the beautiful Polia causes him unrelenting insomnia. When he finally falls asleep, he seemingly awakes in a darkened wood where his adventure begins. Arguably one of the most beautiful books of the Venetian Renaissance, it has also been deemed unreadable. The narrative is composed in Latinate Italian (Italian syntax with a Latin vocabulary).
+First published in Venice in 1499, Francesco Colonna’s poem tells the story of the dream of Poliphilo, whose unrequited love for the beautiful Polia causes him unrelenting insomnia. When he finally falls asleep, he seemingly awakes in a darkened wood where his adventure begins. Arguably one of the most beautiful books of the Venetian Renaissance, it has also been deemed unreadable. The narrative is composed in Latinate Italian (Italian syntax with a Latin vocabulary).
 <br><br>
-It is believed to have been the first book, published in Europe, to contain Arabic print.  Middle Temple Library holds within its collection a 1561 edition, translated from Italian into French. There exist noticeable differences between the Arabic script incorporated into both the first and Paris editions. The first image displayed (above) includes Greek and Arabic, which roughly translates to ‘Labour and Industry’. The artistry of both designs is also apparent: the 1499 edition is far simpler than its French counterpart, where the border around both inscriptions is heavily patterned with coiling leaves and intricate lattice work.
+It is believed to have been the first book, published in Europe, to contain Arabic print.  Middle Temple Library holds within its collection a 1561 edition, translated from Italian into French. There exist noticeable differences between the Arabic script incorporated into both the first and Paris editions. The first image displayed includes Greek and Arabic, which roughly translates to ‘Labour and Industry’. The artistry of both designs is also apparent: the 1499 edition is far simpler than its French counterpart, where the border around both inscriptions is heavily patterned with coiling leaves and intricate lattice work.
 <br><br>
 The second woodcut illustration in the Paris edition appears far more detailed than those in the original – the rocks include depth and shading, and the Arabic inscription above the doors is more cursive in quality and more faithful to the flowing nature of the script. The inscription – carved into the rocks in Greek, Hebrew, and Arabic – translates to: “gloria dei; mater amoris; gloria mundi” (the glory of God; mother of love; glory of the world). The French edition of 1561 at Middle Temple Library is an item that embodies a profusion of cultures and languages, merging East and West. Published in France, based on a story published in Venice, retold from stories of the Classical world, incorporating Latin, Hebrew, Greek, Arabic, and, in 1592, English. 
 
@@ -140,7 +140,7 @@ Ulugh Beg was an astronomer, scientist, and ruler who established the famous obs
 Muslims believe that the Quran is the word of God revealed to Prophet Muhammad in the 7th century through Angel Gabriel, during Ramadan. It was revealed gradually, over twenty three years, to give people time to contemplate the verses and get to know who God really is through His words. The Arabic word for God is Allah. 
 In Islam, it is considered the last scripture to be revealed by God, and Muhammad is believed to be the last prophet sent by God, from a long line of prophets from Adam to Noah, Abraham, Moses and Jesus, amongst many others. It is believed that the Quran confirms the same monotheistic message from previous scriptures: to believe in one God and follow the guidance from the prophets.
 <br><br>
-As Muhammad was illiterate, Muslims consider the Quran to be a miracle of God. The Quran is considered a guidance to the whole of mankind and a book of wisdom and knowledge. Muhammad spent his lifetime teaching people about the explanation of verses in the Quran and how to develop a relationship with God. He has been described as ‘a walking Quran’ as he lived his life according to Quranic principles. Since the time of Muhammad, there has been a long tradition of Islamic scholarship. Early Islamic scholars studied every aspect of the Quran in depth, ranging from religious aspects such as Islamic law and societal conduct to the mathematical, scientific and astronomical concepts mentioned within the Quran. The next few exhibits are some European translations of the Quran written during the medieval and renaissance period to present day.
+As Muhammad was illiterate, Muslims consider the Quran to be a miracle of God. The Quran is considered as guidance to the whole of mankind and a book of wisdom and knowledge. Muhammad spent his lifetime teaching people about the explanation of verses in the Quran and how to develop a relationship with God. He has been described as ‘a walking Quran’ as he lived his life according to Quranic principles. Since the time of Muhammad, there has been a long tradition of Islamic scholarship. Early Islamic scholars studied every aspect of the Quran in depth, ranging from religious aspects such as Islamic law and societal conduct to the mathematical, scientific and astronomical concepts mentioned within the Quran. Of the exhibits featured some are European translations of the Quran written during the medieval and renaissance period to present day.
 <br><br>
 
 <param ve-image 
@@ -153,7 +153,7 @@ During the medieval period, there was a growing interest in translating the Qura
 <br><br>
 However, this attitude gradually changed over time due to a rise in Orientalist scholarship (the study of Asian and Middle Eastern regions) in Europe. Islamic and European scholars began to share their knowledge on various disciplines, ranging from science and mathematics to Quranic knowledge and Arabic language. As a result, European translations of the Quran improved in their accuracy. However, a truly accurate translation of the Quran is not possible without years of Islamic scholarship and deep understanding of Islam, otherwise translations are prone to errors, alterations and misunderstandings regarding context.
 <br><br>
-The next few exhibits are some European translations of the Quran written during the medieval and renaissance period to present day.	
+The following examples are some European translations of the Quran written during the medieval and renaissance period to present day.	
 
 
 ## L'alcorano di Macometto, nel qual si contiene la dottrina, la vita, i costumi, et le leggi sue. Tradotto nuovamente dall'arabo in lingua italiana [1547, Italian translation] The Alcoran of Macometto : which contains his doctrine, life, customs and laws
@@ -173,7 +173,7 @@ Giovanni Battista Castrodardo wrote the first Italian translation of the Quran i
 
 George Sale was a lawyer and a member of the Inner Temple. He was also a member of the Society for Promoting Christian Knowledge. His interest in religion led him to write an English translation of the Quran in 1734, which was based on a Latin translation by Ludovico Maracci of 1698. Although it was not the first Quran to be translated into the English language, it was more accurate than previous versions and was widely used in Europe. Previously, Qurans had been translated in Europe for political reasons. However, as an Orientalist scholar, Sale had knowledge of the Arabic language and an interest in learning about Islam from authentic sources. He also wanted to translate a version of the Quran which was free from earlier Christian criticism relating to Islamic doctrine. To assist him in this endeavour he consulted Ottoman sources of the Islamic sciences of Tafsir (explanation of Quran) and Hadith (a collection of sayings of the Prophet Muhammad) to provide accuracy. Sale was keen that the text was read in conjunction with the commentary for a better understanding of the Quran. It includes a lengthy preliminary discourse and commentary from Islamic Tafsir and Hadith scholars explaining the verses and context of revelation of verses. For this reason, it was widely accepted by Muslims and non-Muslims.
 <br><br>
-[Please click on this link to see a digitised version](https://digitalcollections.usfca.edu/digital/collection/p264101coll7/id/7503/)
+[Click to see a digitised version](https://digitalcollections.usfca.edu/digital/collection/p264101coll7/id/7503/)
 
 <param ve-image 
        label="The Koran, commonly called the Alcoran" 
@@ -190,7 +190,7 @@ This book is a Latin translation of Surah Yusuf (Chapter Joseph) from the Quran,
 <br><br>
 This version contains Latin and word for word Arabic translation. Towards the 17th century, there was a significant development in Arabic studies in Europe and improvement in understanding of Arabic grammar similar to early Islamic Arabic language scholars. Thomas Erpenius was a scholar in Arabic studies and had previously written a book on Arabic grammar in 1613 with use of scientific Arabic grammatical tables for verb conjugations. Although Erpenius rose to the linguistic challenge of attempting to create a literal translation of the Quran, he did not make references to authentic Islamic sources of Tafsir and Hadith, to provide further explanation and understanding of verses. This book was part of the original collection donated to the Inn by Robert Ashley.
 <br><br>
-[Please click on this link to see a digitised version](https://books.google.co.uk/books?id=EJhlAAAAcAAJ&printsec=frontcover&source=gbs_book_other_versions_r&redir_esc=y#v=onepage&q&f=false)
+[Click to see a digitised version](https://books.google.co.uk/books?id=EJhlAAAAcAAJ&printsec=frontcover&source=gbs_book_other_versions_r&redir_esc=y#v=onepage&q&f=false)
 
 <param ve-image 
        label="Historia Iosephi patriarchae" 
@@ -207,9 +207,9 @@ This recent English translation of the Quran by Islamic scholar, Dr Musharraf Hu
 <br><br>
 Here, Dr Musharraf Hussain, explains the context of the revelation of chapter Yusuf (Joseph) and compares it to the version in the Bible. He describes the prophetic dream Joseph has regarding eleven stars and the sun and the moon. This dream is also mentioned in the Bible and the Torah. We also learn about Joseph’s upright characteristics and the moral lessons that can be derived from this chapter. It is easy to understand and an accessible translation of the Quran.
 <br><br>
-In the next case, we will look at the significance of references to celestial bodies in the Quran and how these verses would have influenced the works of early Islamic scientists, mathematicians and astronomers.
+Next, we will look at the significance of references to celestial bodies in the Quran and how these verses would have influenced the works of early Islamic scientists, mathematicians and astronomers.
 <br><br>
-[Please click on this link to see a preview of Surah Yusuf](https://www.majesticquran.co.uk/preview/)
+[Click to see a preview of Surah Yusuf](https://www.majesticquran.co.uk/preview/)
 
 <param ve-image 
        label="The Majestic Quran translated by Dr Musharraf Hussain Al Azhari, OBE" 
@@ -219,7 +219,7 @@ In the next case, we will look at the significance of references to celestial bo
 ## Quranic Verses relating to Science and Astronomy
 
 There are many verses in the Quran that talk about the wonders of the universe and encourage the reader to look up to the skies and contemplate their existence within this universe. These include verses about the orbits of the celestial bodies, the sun, the moon, the stars, the darkness of space, the creation of time and the creation of night and day. Early Islamic scientists and astronomers would have been influenced by these verses, as the Quran is considered a source of knowledge for mankind. There are many references, in the Quran, to scientific and mathematical concepts and how they interrelate to acknowledging the existence of God.<br><br> 
-Over the next few exhibits, we will look at the verses that relate to celestial bodies to understand how they would have shaped the practice of astronomy in the early Islamic period.
+With the next few examples, we look at the verses that relate to celestial bodies to understand how they would have shaped the practice of astronomy in the early Islamic period.
 
 <param ve-image
        url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/41fd7e4c-4d15-43e3-b0e5-41a98296c69a">
@@ -316,7 +316,7 @@ This verse mentions the existence of orbits in the universe and the function of 
 <br><br> 
 It was not known at the time, that the sun has its own gradual orbit around the galaxy, which takes 230 million years. This was only discovered relatively recently in the early 20th century.
 <br><br>
-[Please click on this link for Audio and Tafsir (explanation of verses) of Surah Yasin](https://myislam.org/surah-yaseen/)
+[Click for Audio and Tafsir (explanation of verses) of Surah Yasin](https://myislam.org/surah-yaseen/)
 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/235209560-b2c598cb-683b-4eab-b2c7-599d6b7598f3.jpg">
@@ -336,7 +336,7 @@ Surah Rahman Verse 5 – Calculated Orbits
 <br><br> 
 The sun and moon move in harmony as everything in the universe is made in exact proportions and working together according to precise calculations. Verses such as this one highlights the importance of using mathematics, calculations and the laws of physics when observing the universe.
 <br><br>
-[Please click on link below for Audio and Tafsir (explanation of verses) of Surah Rahman](https://myislam.org/surah-ar-rahman/)
+[Click for Audio and Tafsir (explanation of verses) of Surah Rahman](https://myislam.org/surah-ar-rahman/)
 
 <param ve-image 
        label="Image by Enrique from Pixabay" 
@@ -356,7 +356,7 @@ This extract from verse 187 of Surah Baqarah talks about how to know when dawn i
 <br><br> 
 The words khaitul abyadu  ٱلْخَيْطُ ٱلْأَبْيَض   means, ‘the white thread’ and refers to the white line of light that can be seen across the horizon at the time when dawn breaks in the morning. This is a line that is distinct from the blackness of the night sky. These verses and the knowledge of the movements of the sun are beneficial in calculating the five daily prayer times.
 <br><br>
-[Please click on this link for Audio and Tafsir (explanation of verses) of Surah Baqarah](https://myislam.org/surah-baqarah/)
+[Click for Audio and Tafsir (explanation of verses) of Surah Baqarah](https://myislam.org/surah-baqarah/)
 
 <param ve-image 
        url="https://user-images.githubusercontent.com/110464039/235210308-405bbf97-15f0-4c1f-93c9-9a63e04ad488.jpg">
@@ -510,7 +510,7 @@ With regards to the latter, two questions immediately arise: what function do th
        
 ## 1652: Astronomica quædam ex traditione Shah Cholgii Persæ
 
-As explored in the other case, John Greave’s publication of Ulugh Beg’s Carinacula marked a cornerstone moment in Arabic printing in Oxford. In 1652, he went on to translate and publish Maḥmūd Shāh Khuljī’s treatise on the planets under the title of Astronomica quædam ex traditione Shah Cholgii Persæ. Unlike Christmann’s translation of Al-Farghānī’s Compendium, which favoured simplicity of thought over scientific technicality, Greave’s translation of Shāh Khuljī’s Astronomica provided readers with a visual exploration of the planets and heavens.
+John Greave’s publication of Ulugh Beg’s Carinacula marked a cornerstone moment in Arabic printing in Oxford. In 1652, he went on to translate and publish Maḥmūd Shāh Khuljī’s treatise on the planets under the title of Astronomica quædam ex traditione Shah Cholgii Persæ. Unlike Christmann’s translation of Al-Farghānī’s Compendium, which favoured simplicity of thought over scientific technicality, Greave’s translation of Shāh Khuljī’s Astronomica provided readers with a visual exploration of the planets and heavens.
 
  <param ve-image 
        label="astronomica quaedam ex traditione - Arabic text" 
@@ -518,7 +518,7 @@ As explored in the other case, John Greave’s publication of Ulugh Beg’s Cari
  
  
 ## Charting the universe
-The open pages show a diagram of the shape of Saturn's sphere on a flat surface (page 36), within the context of Centrum Mundi – the centre of the world. Page 35 is the original Persian language it was written in. Unlike the beginners’ course-like design of Al-Farghānī’s Compendium, Shāh Khuljī’s study is scientifically rigorous to its core: throughout its pages are diagrams of planets and the moon.
+The opening pages show a diagram of the shape of Saturn's sphere on a flat surface (page 36), within the context of Centrum Mundi – the centre of the world. Page 35 is the original Persian language it was written in. Unlike the beginners’ course-like design of Al-Farghānī’s Compendium, Shāh Khuljī’s study is scientifically rigorous to its core: throughout its pages are diagrams of planets and the moon.
 <br><br>
 The impact on wider Europe of works like those by Shāh Khuljī and Al-Farghānī demonstrate the signifiance of their place in the history of astronomical science. Their writings, which underwent multiple translations and editions – to the extent that the demand for more sophisticated moveable Arabic type to uphold the integrity of the original script – continued right up the 18th century. 
 
