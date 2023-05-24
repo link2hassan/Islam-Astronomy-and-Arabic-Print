@@ -208,7 +208,7 @@ This recent English translation of the Quran by Islamic scholar, Dr Musharraf Hu
 Here, Dr Musharraf Hussain, explains the context of the revelation of chapter Yusuf (Joseph) and compares it to the version in the Bible. He describes the prophetic dream Joseph has regarding eleven stars and the sun and the moon. This dream is also mentioned in the Bible and the Torah. We also learn about Joseph’s upright characteristics and the moral lessons that can be derived from this chapter. It is easy to understand and an accessible translation of the Quran.
 <br><br>
 In the next case, we will look at the significance of references to celestial bodies in the Quran and how these verses would have influenced the works of early Islamic scientists, mathematicians and astronomers.
-
+<br><br>
 [Please click on this link to see a preview of Surah Yusuf](https://www.majesticquran.co.uk/preview/)
 
 <param ve-image 
@@ -258,7 +258,7 @@ The verses explain that your eyes will become fatigued from trying to detect any
 Contemplating the verses of Quran is considered a form of worship as it necessitates remembering God. In Islam, it is believed that hearts find contentment in the remembrance of God. Being a monotheistic religion, having a relationship with God is the true essence of Islam.
 <br><br> 
 By noticing the perfection of the universe, Muslims believe this alludes to the perfection of the One who created the universe, as everything has been created in exact measure with no faults. Looking at and understanding the enormity of the universe is also humbling.
-
+<br><br>
 [Please click on this link for Audio and Tafsir (explanation of verses) of Surah Mulk](https://myislam.org/surah-al-mulk/)
 
 <param ve-image 
@@ -315,7 +315,7 @@ This verse mentions the phases of the moon. The word kal'ur joonil qadeem كَٱ
 This verse mentions the existence of orbits in the universe and the function of the orbits of the sun and the moon to create time and day and night. They are in a perfect system never colliding. In the tafsir of Ibn Kathir, he explains that the word, ‘swimming’ is used to describe the movement of celestial bodies, i.e., it is as if they are floating in orbit.
 <br><br> 
 It was not known at the time, that the sun has its own gradual orbit around the galaxy, which takes 230 million years. This was only discovered relatively recently in the early 20th century.
-
+<br><br>
 [Please click on this link for Audio and Tafsir (explanation of verses) of Surah Yasin](https://myislam.org/surah-yaseen/)
 
 <param ve-image 
@@ -335,7 +335,7 @@ Surah Rahman Verse 5 – Calculated Orbits
 **The sun and the moon [move] by precise calculation.**
 <br><br> 
 The sun and moon move in harmony as everything in the universe is made in exact proportions and working together according to precise calculations. Verses such as this one highlights the importance of using mathematics, calculations and the laws of physics when observing the universe.
-
+<br><br>
 [Please click on link below for Audio and Tafsir (explanation of verses) of Surah Rahman](https://myislam.org/surah-ar-rahman/)
 
 <param ve-image 
@@ -355,7 +355,7 @@ The sun and moon move in harmony as everything in the universe is made in exact 
 This extract from verse 187 of Surah Baqarah talks about how to know when dawn is breaking. This knowledge is important to Muslims as the morning prayer time, Fajr, starts at dawn break. It is also when fasts begin in Ramadan, as Muslims fast from dawn to sunset.
 <br><br> 
 The words khaitul abyadu  ٱلْخَيْطُ ٱلْأَبْيَض   means, ‘the white thread’ and refers to the white line of light that can be seen across the horizon at the time when dawn breaks in the morning. This is a line that is distinct from the blackness of the night sky. These verses and the knowledge of the movements of the sun are beneficial in calculating the five daily prayer times.
-
+<br><br>
 [Please click on this link for Audio and Tafsir (explanation of verses) of Surah Baqarah](https://myislam.org/surah-baqarah/)
 
 <param ve-image 
@@ -375,7 +375,7 @@ The words khaitul abyadu  ٱلْخَيْطُ ٱلْأَبْيَض   means, ‘th
 **And it is He who placed for you the stars that you may guided by them through the darknesses of the land and sea. We have detailed the signs for people who know.**
 <br><br> 
 This verse explains that God created the stars for the benefit of mankind, by providing light and a source of navigation through knowledge of mapping the stars. As the Quran was revealed in Arabia, desert Arabs had a tradition of observing the night sky and using the stars for navigation. Looking up at the sky to the stars has always been a source of awe and wonderment for mankind. For Muslims, the stars are also a sign of the greatness, power, and beauty of God as the constellations are a beautiful part of His creation.
-
+<br><br>
 [Please click on link below for Audio and Tafsir (explanation of verses) of Surah Anam](https://myislam.org/surah-al-anam/)
 
 <param ve-image 
