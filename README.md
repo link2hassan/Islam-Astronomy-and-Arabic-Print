@@ -429,6 +429,17 @@ One famous scholar was Mariam al-ljliya, also known as Mariam al-Astrulabi, who 
        url="https://user-images.githubusercontent.com/110464039/235965443-a59319a4-9b44-4c42-964c-70b9f9b7911c.jpg">
 
 
+## Al-Qabisi: Treatise on the Judgment of the Stars
+
+Alcabitii ad magisterium iudiciorum astrorum Isagoge: / commentario Ioannis Saxonii declarata [1521]
+<br><br>
+As Islamic scholars were polymaths, they studied several subjects at once. Some early astronomers studied the medieval discipline of astrology alongside astronomy to try to understand the celestial bodies. One such astronomer was Al-Qabisi, who wrote several influential works on astronomy, astrology and maths during the 10th century. He was known in the Latin World as, Alcabitius. This treatise on the Judgment of the Stars was translated into Latin and other European languages from the 12th century onwards. In 1521, John of Saxony, a Parisian astronomer, wrote commentary about Al-Qabisi. As well as astrology, this treatise also refers to detailed astronomical tables for computing the position of celestial bodies. Al-Qabisi’s other works include a book about arithmetic and works on solving astronomical tables. His works greatly contributed to furthering the understanding of astronomy in Europe.
+
+ <param ve-image 
+       label="Al-Qabisi Treatise on the Judgment of the Stars" 
+       url="https://user-images.githubusercontent.com/110464039/235965864-529fa1f8-39f1-4bfa-a6c5-af6bafd4f03a.png">
+
+
 ## Astrology not permitted in Islam
 
 Astrology was a pre-Islamic practice that was prevalent in Arabia and in other territories across the Islamic World. Astrology can also be found in ancient Greek, Indian and Chinese astronomy works, which were later translated and used by early Islamic astronomers as the building blocks for developing the field of astronomy. For these reasons, some early Islamic scholars, when observing the skies and stars, studied astrology in conjunction with astronomy.
@@ -439,18 +450,7 @@ Following the decline of the use of court astrologers in the Islamic World, Isla
 
  <param ve-image 
        url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/6cef0e61-10f8-406d-a535-4099ef45baf1">
-       
 
-## Al-Qabisi: Treatise on the Judgment of the Stars
-
-Alcabitii ad magisterium iudiciorum astrorum Isagoge: / commentario Ioannis Saxonii declarata [1521]
-<br><br>
-As Islamic scholars were polymaths, they studied several subjects at once. Some early astronomers studied the medieval discipline of astrology alongside astronomy to try to understand the celestial bodies. One such astronomer was Al-Qabisi, who wrote several influential works on astronomy, astrology and maths during the 10th century. He was known in the Latin World as, Alcabitius. This treatise on the Judgment of the Stars was translated into Latin and other European languages from the 12th century onwards. In 1521, John of Saxony, a Parisian astronomer, wrote commentary about Al-Qabisi. As well as astrology, this treatise also refers to detailed astronomical tables for computing the position of celestial bodies. Al-Qabisi’s other works include a book about arithmetic and works on solving astronomical tables. His works greatly contributed to furthering the understanding of astronomy in Europe.
-
- <param ve-image 
-       label="Al-Qabisi Treatise on the Judgment of the Stars" 
-       url="https://user-images.githubusercontent.com/110464039/235965864-529fa1f8-39f1-4bfa-a6c5-af6bafd4f03a.png">
-       
 
 ## Ibn al-Haytham: Scientific Method  
 
