@@ -172,7 +172,7 @@ Giovanni Battista Castrodardo wrote the first Italian translation of the Quran i
 ## The Koran, commonly called the Alcoran of Mohammed, translated into English immediately from the original Arabic; with explanatory notes, taken from the most approved commentators [1734]
 
 George Sale was a lawyer and a member of the Inner Temple. He was also a member of the Society for Promoting Christian Knowledge. His interest in religion led him to write an English translation of the Quran in 1734, which was based on a Latin translation by Ludovico Maracci of 1698. Although it was not the first Quran to be translated into the English language, it was more accurate than previous versions and was widely used in Europe. Previously, Qurans had been translated in Europe for political reasons. However, as an Orientalist scholar, Sale had knowledge of the Arabic language and an interest in learning about Islam from authentic sources. He also wanted to translate a version of the Quran which was free from earlier Christian criticism relating to Islamic doctrine. To assist him in this endeavour he consulted Ottoman sources of the Islamic sciences of Tafsir (explanation of Quran) and Hadith (a collection of sayings of the Prophet Muhammad) to provide accuracy. Sale was keen that the text was read in conjunction with the commentary for a better understanding of the Quran. It includes a lengthy preliminary discourse and commentary from Islamic Tafsir and Hadith scholars explaining the verses and context of revelation of verses. For this reason, it was widely accepted by Muslims and non-Muslims.
-
+<br><br>
 [Please click on this link to see a digitised version](https://digitalcollections.usfca.edu/digital/collection/p264101coll7/id/7503/)
 
 <param ve-image 
