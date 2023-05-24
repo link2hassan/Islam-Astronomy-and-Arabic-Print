@@ -6,11 +6,6 @@
        banner="https://user-images.githubusercontent.com/110464039/235194982-be23f17d-43ff-436e-876c-f0eccbc96c7d.jpg" 
        layout="vertical">
 
-## 
-Welcome to Middle Temple Library’s exhibition on Islam, Astronomy, and Arabic Print
-<param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/236245322-3a82211f-d8e1-4d96-b04a-cd1a96af2c3c.jpg">
-
 
 ## Islam, Astronomy, and Arabic Print: A collection showcase at Middle Temple Library
 
