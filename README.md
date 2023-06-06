@@ -386,8 +386,18 @@ Various institutions were created under Islamic rule including, universities, sc
 <br><br> 
 Although many Arabic manuscripts were lost and destroyed during the Crusades, a number of them found their way to Europe, possibly through the Silk Road, and were translated into Latin and European languages to preserve knowledge. The following exhibits look at the work of these great Islamic scholars and how they contributed to the advancement of astronomy with the introduction of advanced mathematics, algebra, trigonometry and geometry.
 
-<param ve-image 
+<param ve-image
+       label="Samarkand observatory, Uzbekistan"
        url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/310a9f32-edbf-4700-ac1e-0c38929c3cac">
+
+
+## Fatima al-Fihri: World’s First University
+
+Women played a vital role during the Islamic Golden Age. In 859, Fatima al-Fihri, founded the World’s first university to grant degrees. Scholars from across the globe travelled to Fez, Morocco, to study religion, philosophy, medicine, astronomy, mathematics, languages and natural sciences at the University of al-Qarawiyyin. They included European philosophers and orientalists who sought access to precious Arabic manuscripts. The university still exists today. Within the university, is one of the world’s oldest libraries containing over 4,000 manuscripts. 
+
+<param ve-image 
+       label="Image of the University of al-Qarawiyyin (Credit: Chris Griffiths)" 
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/e86c7703-0fb2-46a3-8c7a-108b6ee671b3">
 
 
 ## Abd al-Rahman al-Sufi: Book of Fixed Stars
