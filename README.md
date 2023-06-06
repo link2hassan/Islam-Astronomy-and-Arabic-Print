@@ -462,7 +462,7 @@ Following the decline of the use of court astrologers in the Islamic World, Isla
 Ibn al-Haytham, who lived in Cairo in the 10th century, was known in Europe as Alhazen and was famous for his pioneering scientific approach to astronomy. He developed the scientific approach of using hypothesis with mathematics and experiments to gather scientific evidence for his astronomical works. He is also known as the father of optics for his enormous contribution to the field of light rays. He wrote several astronomical works, including works on the Milky Way which had great influence on European scholars.
 
  <param ve-image 
-       label="Al-Qabisi Treatise on the Judgment of the Stars" 
+       label="the galactic centre - milky way galaxy by dcysurfer / Dave Young is licensed under CC BY 2.0"
        url="https://user-images.githubusercontent.com/110464039/235966261-083a9ee4-3f24-4edd-baf6-0553e712c284.jpg">
 
 ## Nasir al-Din al-Tusi: Tusi Couple
@@ -504,6 +504,7 @@ The Compendium remained one of the most influential and widely-used astronomical
        
 
 ## Manicules and markings: English readers of Arabic writings
+
 Middle Temple Library’s copy of Muhamedis Alfragani Arabis Chronologica et astronomica elementa, contains contemporary marginalia in the form of manicules and bracket marks. William H. Sherman posits that: ‘[Manicules derive] from the Latin manicula, simply meaning “little hand,” and that really captures what it is without getting into the messy business of what it does.’ 
 <br><br>
 With regards to the latter, two questions immediately arise: what function do they serve? And, who drew them in? Both questions are not easily answered. The function of the manicle present in books across the early modern period is a multiplicitous one: from marking noteworthy sentences to highlighting problematic passages, it gives scholars today an insight into the minds, reading habits, and early modern readers’ interaction with books. As to who drew them in the astronomica elementa, we are not entirely sure as no name or signature is present.
@@ -523,6 +524,7 @@ John Greave’s publication of Ulugh Beg’s Carinacula marked a cornerstone mom
  
  
 ## Charting the universe
+	
 The opening pages show a diagram of the shape of Saturn's sphere on a flat surface (page 36), within the context of Centrum Mundi – the centre of the world. Page 35 is the original Persian language it was written in. Unlike the beginners’ course-like design of Al-Farghānī’s Compendium, Shāh Khuljī’s study is scientifically rigorous to its core: throughout its pages are diagrams of planets and the moon.
 <br><br>
 The impact on wider Europe of works like those by Shāh Khuljī and Al-Farghānī demonstrate the signifiance of their place in the history of astronomical science. Their writings, which underwent multiple translations and editions – to the extent that the demand for more sophisticated moveable Arabic type to uphold the integrity of the original script – continued right up the 18th century. 
