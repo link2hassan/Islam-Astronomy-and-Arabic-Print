@@ -9,7 +9,7 @@
 
 ## Islam, Astronomy, and Arabic Print: A collection showcase at Middle Temple Library
 
-This exhibition was born out of an idea to showcase some of Middle Temple Library’s lesser-known printed and manuscript codicies that embody the presence of the Arabic and Islamic worlds across Europe between the sixteenth and seventeenth centuries. It tells the story of the emergence of Arabic print culture that flourished in the printing houses of London and Oxford nearly a century after Gutenberg’s revolutionary press. It goes onto explore the interest in the Quran across major European cities during this epoch of wider fascination into Islamic scholarship. And ends by looking at the impact of Islamic astronomy on writers and thinking in England during a period of dramatic growth in scientific and religious understanding of the universe. 
+This exhibition was born out of an idea to showcase some of Middle Temple Library’s lesser-known printed and manuscript codices that embody the presence of the Arabic and Islamic worlds across Europe between the fourteenth and eighteenth centuries. It tells the story of the emergence of Arabic print culture that flourished in the printing houses of London and Oxford nearly a century after Gutenberg’s revolutionary press. It goes onto explore the interest in the Quran across major European cities during this epoch of wider fascination into Islamic scholarship. And ends by looking at the impact of Islamic astronomy on writers and thinking in England during a period of dramatic growth in scientific and religious understanding of the universe. 
 
 <param ve-image 
        label="astronomica quaedam ex traditione - planet diagram" 
@@ -479,7 +479,7 @@ Nasir al-Din al-Tusi was a 13th century brilliant mathematician and scientist wh
 After Christmann’s translation in 1590, the best-known edition to be published was Jacob Golius’ in 1669, printed in Amsterdam. He published the Arabic text together with his own Latin translation under the title Muhammedos Fil. Ketiri Ferganesis, Qui vulgo al-Fraganus dicitur, Elementa Astronomica, Arabice & Latine. Cum notis ad res exoticas sive Orientales, qua in iis occurunt.
 	
  <param ve-image 
-       url="https://user-images.githubusercontent.com/110464039/235974585-a640899c-ec31-448c-ab3b-085e21a19f65.jpg">
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/bf4e0bd6-716d-4e87-8b67-85b4532c33a1">
 
 
 ## 1590: Al-Farghānī, Jacob Christmann, and translating the stars
