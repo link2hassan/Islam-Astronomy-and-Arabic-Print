@@ -479,8 +479,7 @@ Nasir al-Din al-Tusi was a 13th century brilliant mathematician and scientist wh
 After Christmann’s translation in 1590, the best-known edition to be published was Jacob Golius’ in 1669, printed in Amsterdam. He published the Arabic text together with his own Latin translation under the title Muhammedos Fil. Ketiri Ferganesis, Qui vulgo al-Fraganus dicitur, Elementa Astronomica, Arabice & Latine. Cum notis ad res exoticas sive Orientales, qua in iis occurunt.
 	
  <param ve-image 
-       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/bf4e0bd6-716d-4e87-8b67-85b4532c33a1">
-
+       url="https://github.com/middletemplelibrary/Islam-Astronomy-and-Arabic-Print/assets/110464039/d794231a-0639-41fd-951b-9db0ff90e212">
 
 ## 1590: Al-Farghānī, Jacob Christmann, and translating the stars
 	
