@@ -494,7 +494,7 @@ Bahrom Abdukhalimov acknowledges that: “although Al-Farghānī is well known i
        
 ## 
 
-The Compendium is a short introduction course 	in astronomy based on Ptolemy’s Almagest, comprising about seventy pages and thirty chapters. It describes the main facets of astronomy: the hevens, the planets, the stars, the sun, the moon, and the earth, including their movements. He also provides a list of well-known lands and cities. His aim was to present his work in a simple style without complicated mathematical calculations.
+The Compendium is a short introduction course in astronomy based on Ptolemy’s Almagest, comprising about seventy pages and thirty chapters. It describes the main facets of astronomy: the heavens, the planets, the stars, the sun, the moon, and the earth, including their movements. He also provides a list of well-known lands and cities. His aim was to present his work in a simple style without complicated mathematical calculations.
 <br><br>
 The Compendium remained one of the most influential and widely-used astronomical works in the Islamic world and Europe during the Middle Ages. The number of translations that followed during the 1100s to the late-17th century is testament to this.
 
