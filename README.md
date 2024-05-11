@@ -543,5 +543,3 @@ The impact on wider Europe of works like those by Shāh Khuljī and Al-Farghān�
        label="Saturnii" 
        url="https://user-images.githubusercontent.com/110464039/235985218-4f3387f9-ef72-47bc-b483-968cba227dcd.jpg">
 
-##
-This exhibition ran in Middle Temple Library from February to May 2024. For more information about the Library and what we do, please click [here](https://www.middletemple.org.uk/library) to visit our website.
