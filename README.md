@@ -320,6 +320,11 @@ It was not known at the time, that the sun has its own gradual orbit around the 
        url="https://user-images.githubusercontent.com/110464039/235209560-b2c598cb-683b-4eab-b2c7-599d6b7598f3.jpg">
 
 
+**Explore more about Surah Yaseen and its significance in our daily lives at [Suraheyaseen.com](https://suraheyaseen.com/).**  
+Read Surah Yaseen for peace, healing, and blessings from Allah.  
+[Click here for reading Surah Yaseen](https://suraheyaseen.com/)
+
+
 ## Surah Rahman: Favours from Your Lord
 
 Surah Rahman discusses the favours or blessings that God bestows on mankind, out of His mercy. Being merciful is one of His attributes. From His great favours, are the favours of the functions of the celestial bodies.
